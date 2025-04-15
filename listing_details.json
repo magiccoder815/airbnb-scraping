@@ -1,110 +1,1622 @@
 [
     {
-        "link": "https://www.airbnb.com/rooms/734060738824589056?search_mode=regular_search&adults=1&check_in=2025-05-27&check_out=2025-06-01&children=0&infants=0&pets=0&source_impression_id=p3_1744735425_P3RJqzt8HS53m-Zr&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/734060738824589056?search_mode=regular_search&adults=1&check_in=2025-05-27&check_out=2025-06-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736097_P3NqDsdbG3PzN-Re&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Victorian 2 Bedrooms - Lower East Side /Action",
         "listing_type": "Self check-in",
         "listing_price": "1592"
     },
     {
-        "link": "https://www.airbnb.com/rooms/993753874316344578?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-24&check_out=2025-07-29&children=0&infants=0&pets=0&photo_id=1757640301&source_impression_id=p3_1744735427_P3Z4o3ywGhyYDXP0&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "Affordable Private Room in Manhattan | Bluebird",
-        "listing_type": "Room in a rental unit",
-        "listing_price": "616"
-    },
-    {
-        "link": "https://www.airbnb.com/rooms/1285057395908288186?search_mode=regular_search&adults=1&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3uKN-qIASzv-F81&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "Stunning loft in Nolita/Manhattan",
-        "listing_type": "Exceptional check-in experience",
-        "listing_price": "7189"
-    },
-    {
-        "link": "https://www.airbnb.com/rooms/23631288?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-12&check_out=2025-06-17&children=0&infants=0&pets=0&photo_id=1255622974&source_impression_id=p3_1744735427_P3VvVJYAx9RGDiVJ&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "Lower East Side Oasis (private room)",
-        "listing_type": "Room in a rental unit",
-        "listing_price": "1050"
-    },
-    {
-        "link": "https://www.airbnb.com/rooms/1162454771886304951?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-19&check_out=2025-06-24&children=0&infants=0&pets=0&photo_id=1913272135&source_impression_id=p3_1744735427_P3-b3ToKcsTJtuG3&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/1162454771886304951?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-19&check_out=2025-06-24&children=0&infants=0&pets=0&photo_id=1913272135&source_impression_id=p3_1744736098_P35KUdFRu8ywuur8&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Large Private Room in LES",
         "listing_type": "Room in a rental unit",
         "listing_price": "702"
     },
     {
-        "link": "https://www.airbnb.com/rooms/1305294589180823626?search_mode=regular_search&adults=1&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3bS6LItKatTfbcC&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/23631288?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-12&check_out=2025-06-17&children=0&infants=0&pets=0&photo_id=1255622974&source_impression_id=p3_1744736099_P386VOHIKKkN3kgq&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Lower East Side Oasis (private room)",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1050"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1285057395908288186?search_mode=regular_search&adults=1&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3DA8VgoKZCvKwSv&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Stunning loft in Nolita/Manhattan",
+        "listing_type": "Exceptional check-in experience",
+        "listing_price": "7189"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1305294589180823626?search_mode=regular_search&adults=1&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3VF8HxCxY1uQwCP&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Entire cozy 1 Bedroom apartment",
         "listing_type": "At-home coffee",
         "listing_price": "1364"
     },
     {
-        "link": "https://www.airbnb.com/rooms/1379116818424959510?search_mode=regular_search&adults=1&check_in=2025-06-20&check_out=2025-06-25&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3wG6945SWlEwe_O&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "Sonder The Merchant | Accessible Double Full Room",
-        "listing_type": "Self check-in",
-        "listing_price": "1779"
-    },
-    {
-        "link": "https://www.airbnb.com/rooms/1223325139649690258?search_mode=regular_search&adults=1&check_in=2025-05-18&check_out=2025-05-23&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3YaV6-YrjZsPeZG&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/1223325139649690258?search_mode=regular_search&adults=1&check_in=2025-05-18&check_out=2025-05-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3R_kD-Isq9LYUWe&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Vibrant NYC Loft - Open Space for 6 Guests!",
         "listing_type": "Great check-in experience",
         "listing_price": "2313"
     },
     {
-        "link": "https://www.airbnb.com/rooms/986037545160311597?search_mode=regular_search&adults=1&check_in=2025-06-09&check_out=2025-06-14&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3_cNi4XmeIKoKeN&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/1379116818424959510?search_mode=regular_search&adults=1&check_in=2025-06-20&check_out=2025-06-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3rDTLzY414Z6kqh&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Sonder The Merchant | Accessible Double Full Room",
+        "listing_type": "Self check-in",
+        "listing_price": "1779"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/986037545160311597?search_mode=regular_search&adults=1&check_in=2025-06-09&check_out=2025-06-14&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P37b_7JEQVEw57Re&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Modern Sun filled Chinatown 2 BR with a tub!",
         "listing_type": "Great check-in experience",
         "listing_price": "2563"
     },
     {
-        "link": "https://www.airbnb.com/rooms/985918833272545229?search_mode=regular_search&adults=1&check_in=2025-06-19&check_out=2025-06-24&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3h3TR0hrETfHC_W&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/985918833272545229?search_mode=regular_search&adults=1&check_in=2025-06-19&check_out=2025-06-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3i1Yh-viNvUvvPP&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Central Park 3BR/2BA - 1700 Square Feet",
         "listing_type": "Great check-in experience",
         "listing_price": "3309"
     },
     {
-        "link": "https://www.airbnb.com/rooms/771201666879112794?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3FB6vl-kDQALTnO&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/771201666879112794?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3x5mrAPW_oC3l7o&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Pinky Pinky LES 2 bedroom 50\u201d smart TV",
         "listing_type": "Free cancellation before Apr 19",
         "listing_price": "1101"
     },
     {
-        "link": "https://www.airbnb.com/rooms/734859054165409036?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3QNTiEEE0ezy47B&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/1004442886221909241?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-11&check_out=2025-06-16&children=0&infants=0&pets=0&photo_id=1920039844&source_impression_id=p3_1744736099_P3LNSGszIB6Hnw8k&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Affordable Private Room Manhattan | Blue Bell",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "571"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/734859054165409036?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3EuT_auU0hZZVtS&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Upscale Soho Loft 2000 SF",
         "listing_type": "Great check-in experience",
         "listing_price": "4624"
     },
     {
-        "link": "https://www.airbnb.com/rooms/1090287138945435080?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3WZSPzKy5L1NbaE&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/1090287138945435080?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3PLm03fe2uECJkC&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "A Gem in Lower East Side",
         "listing_type": "Great check-in experience",
         "listing_price": "2700"
     },
     {
-        "link": "https://www.airbnb.com/rooms/43271004?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-26&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3vvqiulyxtEgCgK&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "138 Bowery-King Suite w. Living Room Space",
-        "listing_type": "",
-        "listing_price": "1369"
-    },
-    {
-        "link": "https://www.airbnb.com/rooms/958019510453136553?search_mode=regular_search&adults=1&check_in=2025-05-18&check_out=2025-05-23&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P3VZMvpHXzvJbgUY&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "Lower East Side Sanctuary w/ Comfy King Bed",
-        "listing_type": "Self check-in",
-        "listing_price": "2900"
-    },
-    {
-        "link": "https://www.airbnb.com/rooms/1086312344495922694?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&photo_id=1903553237&source_impression_id=p3_1744735427_P3MQIvhEQI5kxkAn&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/1086312344495922694?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&photo_id=1903553237&source_impression_id=p3_1744736099_P3vmG0RzhUmJeuRM&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Bedroom in the heart of LES",
         "listing_type": "Room in a condo",
         "listing_price": "890"
     },
     {
-        "link": "https://www.airbnb.com/rooms/1326475527169045510?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744735427_P35w6SEs1GxohMc4&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
+        "link": "https://www.airbnb.com/rooms/958019510453136553?search_mode=regular_search&adults=1&check_in=2025-05-18&check_out=2025-05-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3h928SK-Dtiy9Pk&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Lower East Side Sanctuary w/ Comfy King Bed",
+        "listing_type": "Self check-in",
+        "listing_price": "2900"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1207185174397173792?search_mode=regular_search&adults=1&check_in=2025-05-24&check_out=2025-05-29&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3BzJB6v1DNXNuYA&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Boutique Hotel in must-explore neighborhood",
+        "listing_type": "",
+        "listing_price": "1279"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1021816341440151111?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-01&check_out=2025-07-06&children=0&infants=0&pets=0&photo_id=1777952507&source_impression_id=p3_1744736099_P3iXmUC3KL-CF5vo&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
+        "title": "Oasis in the Heart of New York",
+        "listing_type": "",
+        "listing_price": "850"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1326475527169045510?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736099_P3PO9T6c2vC4yBMU&previous_page_section_name=1000&federated_search_id=6595af53-a095-4aba-b912-5f141f4b25e7",
         "title": "Delightful 3-Bedrooms Downtown Gem with balcony",
         "listing_type": "",
         "listing_price": "5028"
     },
     {
-        "link": "https://www.airbnb.com/rooms/1021816341440151111?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-01&check_out=2025-07-06&children=0&infants=0&pets=0&photo_id=1777952507&source_impression_id=p3_1744735427_P3AKcq37oebOeljF&previous_page_section_name=1000&federated_search_id=809fe0c0-8d0d-4ae8-9545-811bfde7858b",
-        "title": "Oasis in the Heart of New York",
+        "link": "https://www.airbnb.com/rooms/1326475527169045510?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736111_P3UbW-7A-LPkVgqX&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Delightful 3-Bedrooms Downtown Gem with balcony",
         "listing_type": "",
-        "listing_price": "850"
+        "listing_price": "5028"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/150804?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&photo_id=1165773327&source_impression_id=p3_1744736112_P3v6l9Zq48TyCWMT&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Colorful 2+ Bedroom Apt. on NYC's Lower East Side",
+        "listing_type": "",
+        "listing_price": "2619"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/4016142?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-01&check_out=2025-06-06&children=0&infants=0&pets=0&photo_id=31039436&source_impression_id=p3_1744736112_P30x7ihTI5ymGUM9&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Big Bedroom in Sunny & New Lower East Side Apt",
+        "listing_type": "",
+        "listing_price": "1797"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1162391790200266813?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-01&check_out=2025-06-06&children=0&infants=0&pets=0&photo_id=1913196500&source_impression_id=p3_1744736112_P30faQNQd2nzjVBe&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Private Room in LES",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "702"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43315639?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P33XlzkkgaVfkFc8&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "970"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/766096522634607786?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P330o66AbkhMXn34&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "LES is MORE stunning views",
+        "listing_type": "Self check-in",
+        "listing_price": "2419"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1010279287170639082?search_mode=regular_search&adults=1&check_in=2025-07-03&check_out=2025-07-08&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P30chiF0xrjf6r3w&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Quiet Lower East Side Studio",
+        "listing_type": "",
+        "listing_price": "1398"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1087139137702855655?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-05&check_out=2025-05-10&children=0&infants=0&pets=0&photo_id=1905298150&source_impression_id=p3_1744736112_P34hyb6D1bgCBpZR&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Private Bedroom with In Suite bath in LES",
+        "listing_type": "",
+        "listing_price": "1010"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/51023350?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-27&check_out=2025-06-01&children=0&infants=0&pets=0&photo_id=1402654221&source_impression_id=p3_1744736112_P3MxpUjQebsaMOwA&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Eccentric and Comfy East Village Room",
+        "listing_type": "Room in a condo",
+        "listing_price": "1187"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1109654543639961451?search_mode=regular_search&adults=1&check_in=2025-05-10&check_out=2025-05-15&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P30GPyFDi6KjDaRz&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Private Rooftop View in Heart of the City",
+        "listing_type": "Exceptional check-in experience",
+        "listing_price": "4872"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/762433518245016623?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-12&check_out=2025-06-17&children=0&infants=0&pets=0&photo_id=1754280432&source_impression_id=p3_1744736112_P3rp_giITpxAxvWv&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Affordable Private Room in Manhattan|Freesia",
+        "listing_type": "",
+        "listing_price": "630"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/987749282672916874?search_mode=regular_search&adults=1&check_in=2025-06-15&check_out=2025-06-20&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P3rU8ijFxsLEyscW&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Lower East Side Sunny One Bedroom",
+        "listing_type": "",
+        "listing_price": "1655"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1125394067603414786?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P3Un0lxBKb8OzWO_&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Lovely 2 Bedroom 2 bathroom apt in LES",
+        "listing_type": "At-home coffee",
+        "listing_price": "2665"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1314055810287235223?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-11&check_out=2025-06-16&children=0&infants=0&pets=0&photo_id=2119516007&source_impression_id=p3_1744736112_P3jeo4U0xXOkznkM&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Cottage in the Village",
+        "listing_type": "Room in a home",
+        "listing_price": "1444"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1054463012526523296?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-10&check_out=2025-06-15&children=0&infants=0&pets=0&photo_id=1870279676&source_impression_id=p3_1744736112_P3odqzlol1hqpTE7&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Charming Apartment with a private backyard",
+        "listing_type": "",
+        "listing_price": "1013"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/47162719?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-27&check_out=2025-07-02&children=0&infants=0&pets=0&photo_id=1653302529&source_impression_id=p3_1744736112_P3UGySw_NzGuyk9v&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Writer's Sun filled cozy room , super convenient",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1009"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/16821?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&photo_id=1653289051&source_impression_id=p3_1744736112_P3BDJZ99dAmaNCXq&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Charming Room in Amazing East Village Apt. (B)",
+        "listing_type": "",
+        "listing_price": "999"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1252199797400381865?search_mode=regular_search&adults=1&check_in=2025-06-14&check_out=2025-06-19&children=0&infants=0&pets=0&source_impression_id=p3_1744736112_P3vtC99UwSACLIPw&previous_page_section_name=1000&federated_search_id=e4b8f5e5-6dbd-4731-acba-1ae3ea0cbf8c",
+        "title": "Beautiful 2 Bedroom 2 bath apartment",
+        "listing_type": "Great check-in experience",
+        "listing_price": "2869"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1252199797400381865?search_mode=regular_search&adults=1&check_in=2025-06-14&check_out=2025-06-19&children=0&infants=0&pets=0&source_impression_id=p3_1744736118_P393lH6Wmn3wH3EU&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Beautiful 2 Bedroom 2 bath apartment",
+        "listing_type": "Great check-in experience",
+        "listing_price": "2869"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/16580?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-19&check_out=2025-05-24&children=0&infants=0&pets=0&photo_id=323050466&source_impression_id=p3_1744736119_P3r0cWxx6u88P-pz&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Sunny, Modern room in East Village w City Views",
+        "listing_type": "Room in a condo",
+        "listing_price": "1341"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/960883666210378517?search_mode=regular_search&adults=1&check_in=2025-06-14&check_out=2025-06-19&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3opceaOTBFfeyx_&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "2 Bedroom Lower East Side Apt.",
+        "listing_type": "",
+        "listing_price": "1883"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1131289860288054400?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-11-01&check_out=2025-11-06&children=0&infants=0&pets=0&photo_id=1880097214&source_impression_id=p3_1744736119_P3zpmhgCtS16XsNw&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Studio East Village Gallery Oasis",
+        "listing_type": "",
+        "listing_price": "747"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/45013494?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-26&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3XAoAZqaTldwIUz&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "1438"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1087136782736252981?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-21&check_out=2025-06-26&children=0&infants=0&pets=0&photo_id=1837854503&source_impression_id=p3_1744736119_P3ge5scpk9shhaat&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Iconic Room in DT Near Subway",
+        "listing_type": "",
+        "listing_price": "964"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43310986?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3Gp2R11imrYoRaE&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "138 Bowery-Classic Queen Studio",
+        "listing_type": "",
+        "listing_price": "1438"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/993740332378198800?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-10&check_out=2025-07-15&children=0&infants=0&pets=0&photo_id=1760177803&source_impression_id=p3_1744736119_P3e3i-sBeOb1BKY-&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Affordable Private Room Manhattan | Blue Echo",
+        "listing_type": "",
+        "listing_price": "616"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1054375518474819539?search_mode=regular_search&adults=1&check_in=2025-06-28&check_out=2025-07-03&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3G2UEowP2_ijl9q&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Elegant two bed escape",
+        "listing_type": "Self check-in",
+        "listing_price": "3465"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1095774395165850616?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&photo_id=1952826369&source_impression_id=p3_1744736119_P3GbgP9gmeASzFq_&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "The Yellow Room",
+        "listing_type": "",
+        "listing_price": "805"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1105462821419503909?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3T4N2Ecohxb-ioL&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Sunny Chinatown 1BR",
+        "listing_type": "Great check-in experience",
+        "listing_price": "1238"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1171012769356179541?search_mode=regular_search&adults=1&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3aBkpzkD6nq44r9&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Large Green Space Rooftop in Chinatown NYC!",
+        "listing_type": "Self check-in",
+        "listing_price": "3737"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/47924038?search_mode=regular_search&adults=1&check_in=2025-04-17&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3xnnIKPgrCGxwqP&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "138 Bowery-Modern Studio",
+        "listing_type": "Great check-in experience",
+        "listing_price": "1575"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1016618958526024089?search_mode=regular_search&adults=1&check_in=2025-05-03&check_out=2025-05-08&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P35wXN6jH1Q9rf-t&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Modern 3 Bed 2 Bath East Village",
+        "listing_type": "Extra spacious",
+        "listing_price": "4508"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/51907281?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3kBnBcdLCf52rW4&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Blue Moon Delightful Double Queen with Balcony",
+        "listing_type": "Self check-in",
+        "listing_price": "2568"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1157321297978459399?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-25&check_out=2025-04-30&children=0&infants=0&pets=0&photo_id=1907975282&source_impression_id=p3_1744736119_P3i08d0hqynPboQV&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Simple Bedroom in Prime Brooklyn",
+        "listing_type": "",
+        "listing_price": "559"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1095737290006810489?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3P5tMfSM55kWbVq&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "Cozy Apartment in The Heart of LES",
+        "listing_type": "",
+        "listing_price": "1678"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43310180?search_mode=regular_search&adults=1&check_in=2025-04-27&check_out=2025-05-03&children=0&infants=0&pets=0&source_impression_id=p3_1744736119_P3z2_CchbpwbMMlA&previous_page_section_name=1000&federated_search_id=afcffb93-e5aa-415c-a201-1a2587610bf6",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "1324"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1072089744850191566?search_mode=regular_search&adults=1&check_in=2025-07-07&check_out=2025-07-12&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3cjTELMyd0MCJYr&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Beautiful 4 Bedroom in Lower East Side",
+        "listing_type": "",
+        "listing_price": "6200"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1171012769356179541?search_mode=regular_search&adults=1&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3OFLDgUWEIN61IZ&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Large Green Space Rooftop in Chinatown NYC!",
+        "listing_type": "Self check-in",
+        "listing_price": "3737"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/53386606?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-23&check_out=2025-06-28&children=0&infants=0&pets=0&photo_id=1866733886&source_impression_id=p3_1744736126_P3mRv_Tvh2o9MbZx&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Large Room in Amazing East Village Apt (A)",
+        "listing_type": "",
+        "listing_price": "1021"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/49738307?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3MAiaXv4q2V4zIR&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Private Suite & Entrance Loft in Little Italy/SoHo",
+        "listing_type": "",
+        "listing_price": "3304"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1157986393909875539?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-23&check_out=2025-05-28&children=0&infants=0&pets=0&photo_id=1908642588&source_impression_id=p3_1744736126_P3WleqGFWCnyjBS3&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Cozy Williamsburg Bedroom",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "833"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1305095106716193497?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3UhgrVECoS2dKGr&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "17John: Classic Queen Studio Apartment",
+        "listing_type": "Self check-in",
+        "listing_price": "1417"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/8704528?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-12-05&check_out=2025-12-10&children=0&infants=0&pets=0&photo_id=1638464734&source_impression_id=p3_1744736126_P3kn5bR6bn_857bA&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Private bedroom & bath in Red Hook Bklyn for solo",
+        "listing_type": "Room in a condo",
+        "listing_price": "422"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/41178612?search_mode=regular_search&adults=1&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3nPEp8r2VG6yH-T&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Spaceage SoHo Penthouse Terrace Rooftop",
+        "listing_type": "Self check-in",
+        "listing_price": "3172"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/5406041?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-11-23&check_out=2025-11-28&children=0&infants=0&pets=0&photo_id=135520366&source_impression_id=p3_1744736126_P3veWG-AMUF-215K&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Mod 3 BR duplex-East Village",
+        "listing_type": "",
+        "listing_price": "769"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/44320572?search_mode=regular_search&adults=1&check_in=2025-04-18&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P31jgAtmAuA8RuAI&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "138 Bowery-King Suite w. Living Room Space",
+        "listing_type": "",
+        "listing_price": "1369"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43310180?search_mode=regular_search&adults=1&check_in=2025-04-27&check_out=2025-05-03&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3hh4eaPR9HikNEI&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "1324"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/51907246?search_mode=regular_search&adults=1&check_in=2025-04-25&check_out=2025-04-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3CXZ9KAn9i7chO5&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Junior Suite in the heart of downtown Manhattan",
+        "listing_type": "Self check-in",
+        "listing_price": "2577"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/47045396?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3kDQQ1ktswQsTCy&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "138 Bowery Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "1598"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/19710742?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-09&check_out=2025-05-14&children=0&infants=0&pets=0&photo_id=403306137&source_impression_id=p3_1744736126_P3U20dP_koYHFv3x&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Sunny Room w/ Private Bath in Williamsburg!",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1198"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/40158019?search_mode=regular_search&adults=1&check_in=2025-05-27&check_out=2025-06-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P36lGIdtz5xiIOPY&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Modern and Cozy suite in the heart of Williamsburg",
+        "listing_type": "Self check-in",
+        "listing_price": "1849"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43270798?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3y1biRIdB5x7CBI&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "1598"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1305092541518230802?search_mode=regular_search&adults=1&check_in=2025-04-15&check_out=2025-04-20&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3kKEpdt_UTCyq_I&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "17John: Luxury One Bedroom Apartment",
+        "listing_type": "Self check-in",
+        "listing_price": "1722"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1156886612042523980?search_mode=regular_search&adults=1&check_in=2025-06-30&check_out=2025-07-05&children=0&infants=0&pets=0&source_impression_id=p3_1744736126_P3wni36qxjMbn69K&previous_page_section_name=1000&federated_search_id=630f4c20-66ac-4087-aba9-4d3d800f3747",
+        "title": "Private Studio with Shared Bath",
+        "listing_type": "",
+        "listing_price": "856"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1156886612042523980?search_mode=regular_search&adults=1&check_in=2025-06-30&check_out=2025-07-05&children=0&infants=0&pets=0&source_impression_id=p3_1744736133_P3y7tmEHRvcnOeSm&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Private Studio with Shared Bath",
+        "listing_type": "",
+        "listing_price": "856"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/14177028?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-08&check_out=2025-05-13&children=0&infants=0&pets=0&photo_id=1603902825&source_impression_id=p3_1744736133_P3TuhSXTL35h0K5P&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Gorgeous Room Private Bath Private Best Location",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "1221"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1157978341548890561?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-31&check_out=2025-06-05&children=0&infants=0&pets=0&photo_id=1908631715&source_impression_id=p3_1744736133_P3aoCv94ZmTjzbTN&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Vibrant Williamsburg Bedroom",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "822"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/908677070021981560?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-08-15&check_out=2025-08-20&children=0&infants=0&pets=0&photo_id=1669776774&source_impression_id=p3_1744736134_P328i3EmlFMNNJ8R&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Williamsburg: Entire Home near Water",
+        "listing_type": "",
+        "listing_price": "1444"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/27257632?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-09&check_out=2025-05-14&children=0&infants=0&pets=0&photo_id=547359141&source_impression_id=p3_1744736134_P33XsSqQzKn82Ffy&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Sean's Jersey City Homestead,the Pink Room.",
+        "listing_type": "Room in a home",
+        "listing_price": "444"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/7204443?search_mode=regular_search&adults=1&check_in=2025-05-18&check_out=2025-05-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3cLqdXSZl4MUgi5&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Garden Room in Dumbo Art Loft",
+        "listing_type": "24-hour self check-in",
+        "listing_price": "1205"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1313480536882565302?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-17&check_out=2025-04-22&children=0&infants=0&pets=0&photo_id=2050373049&source_impression_id=p3_1744736134_P3qDTFoI0hsupeFp&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "New Single Artist Room",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "522"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1104327697050358536?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-21&check_out=2025-05-26&children=0&infants=0&pets=0&photo_id=1853148851&source_impression_id=p3_1744736134_P34wsSYTg-18f4zY&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "cozy room in 2 Bedroom apt",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1830"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/13788132?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-28&check_out=2025-07-03&children=0&infants=0&pets=0&photo_id=1622396130&source_impression_id=p3_1744736134_P3t9x-IZfzwdvYEH&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Sunny, cozy room in Brooklyn.",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "642"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/41367371?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-02&check_out=2025-06-09&children=0&infants=0&pets=0&photo_id=1385262374&source_impression_id=p3_1744736134_P3ToqcYD2vWhvwBA&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Large Sunlit Room in Super Charming 1861 Townhouse",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "1449"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/733422980036577408?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-11-04&check_out=2025-11-09&children=0&infants=0&pets=0&photo_id=1638543223&source_impression_id=p3_1744736134_P3ykC2WpcCqB7Z3Q&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Caribbean Vibes Nookie",
+        "listing_type": "",
+        "listing_price": "342"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/37122566?search_mode=regular_search&adults=1&check_in=2025-05-24&check_out=2025-05-29&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3mJZcXNmem2fKYt&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Lovely Chic Double Twin room at The Ridge",
+        "listing_type": "",
+        "listing_price": "1507"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/45591853?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P33ZNspbMAMpZCtx&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "138 Bowery-King Suite w. Living Room Space",
+        "listing_type": "Extra spacious",
+        "listing_price": "1255"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/52240531?search_mode=regular_search&adults=1&check_in=2025-04-28&check_out=2025-05-03&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3Jl9d3vPtolBrhx&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Exclusive Penthouse Loft w Balcony + Insane View",
+        "listing_type": "Self check-in",
+        "listing_price": "6650"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1305096322826956646?search_mode=regular_search&adults=1&check_in=2025-04-25&check_out=2025-04-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3uM058ErbTHTLpC&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "17John: Classic King Studio Apartment",
+        "listing_type": "Self check-in",
+        "listing_price": "1793"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/9729286?search_mode=regular_search&adults=1&check_in=2025-06-22&check_out=2025-06-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3unQC4iUVVmiMGK&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Stay in Manhattan Best Location! Flatiron/Gramercy",
+        "listing_type": "",
+        "listing_price": "862"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/23872195?search_mode=regular_search&adults=1&check_in=2025-04-30&check_out=2025-05-05&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3QM8SyL9Yrxp1Ut&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Modern Apt, dwntwn JC 8mins to NYC (APT 3)",
+        "listing_type": "Self check-in",
+        "listing_price": "886"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/36147561?search_mode=regular_search&adults=1&check_in=2025-07-19&check_out=2025-07-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736134_P3oJ0rsBoc4D27US&previous_page_section_name=1000&federated_search_id=53dd50d5-6742-44cc-9844-3c018162e86f",
+        "title": "Luxury in Little Italy Private Balcony",
+        "listing_type": "Outdoor entertainment",
+        "listing_price": "2439"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/871071720172614762?search_mode=regular_search&adults=1&check_in=2025-06-20&check_out=2025-06-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P3daHn9GC6pAfsdv&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Room in Williamsburg w/ private bathroom, kitchen",
+        "listing_type": "Designed for staying cool",
+        "listing_price": "1056"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/38462360?search_mode=regular_search&adults=1&check_in=2025-05-23&check_out=2025-05-28&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P3kxhN2lfeTTleXJ&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "E Village Loft Private Terrace",
+        "listing_type": "",
+        "listing_price": "4679"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/9767424?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-26&check_out=2025-07-01&children=0&infants=0&pets=0&photo_id=1248219568&source_impression_id=p3_1744736140_P3i73grtNdLa2fqT&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Brooklyn's Finest - #2 - Williamsburg",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1082"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1024825444447674626?search_mode=regular_search&adults=1&check_in=2025-08-11&check_out=2025-08-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P34N6wK83OWDQ_C4&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Huge Modern 2 bedroom in Little Italy",
+        "listing_type": "",
+        "listing_price": "3018"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/877621410232403938?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-09&check_out=2025-06-14&children=0&infants=0&pets=0&photo_id=2035537413&source_impression_id=p3_1744736140_P3ovCjsvMDAuMHIz&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Post Modern Room",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "999"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1157613893781912488?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-07&check_out=2025-05-12&children=0&infants=0&pets=0&photo_id=1908204015&source_impression_id=p3_1744736140_P3ROfMj-9pGdHZYo&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Peaceful Room in Williamsburg",
+        "listing_type": "",
+        "listing_price": "844"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1092280833430415586?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&photo_id=1955990318&source_impression_id=p3_1744736140_P3YRSDsh96QcbESG&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Room in 1BR APT - East Village Oasis",
+        "listing_type": "",
+        "listing_price": "1319"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1086957723918342538?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-05&check_out=2025-05-10&children=0&infants=0&pets=0&photo_id=1965396820&source_impression_id=p3_1744736140_P3uHYKR9YthSvplR&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "The Red Room",
+        "listing_type": "",
+        "listing_price": "890"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1368894200869268296?search_mode=regular_search&adults=1&check_in=2025-06-27&check_out=2025-07-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P3kdzYEjpig4HxdK&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "NYC Renovated Private Room (Shared Bathroom)",
+        "listing_type": "Self check-in",
+        "listing_price": "760"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/18022636?search_mode=regular_search&adults=1&check_in=2025-07-24&check_out=2025-07-29&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P35_xF0XsjFOet37&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Beautiful 1 Bedroom in Prime Greenpoint",
+        "listing_type": "Self check-in",
+        "listing_price": "1027"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/50678248?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P3RlDYNTb7SzNg7W&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Newly Built 1 Bedroom Modern Oasis in Forest Hills",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "1133"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/11649232?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-22&check_out=2025-04-27&children=0&infants=0&pets=0&photo_id=132669877&source_impression_id=p3_1744736140_P39X5JR3O13k9pS-&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Modern Garden View Room",
+        "listing_type": "",
+        "listing_price": "1541"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1035063789755603504?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-19&check_out=2025-06-24&children=0&infants=0&pets=0&photo_id=1930768703&source_impression_id=p3_1744736140_P3uzStZu_hxUgpu4&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "1 private Room in Lower East",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "776"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1147904767726005173?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P3iS63UQoah-E_u7&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "1Bed 1Bath Apt near EWR, Parking 18' from Penn St.",
+        "listing_type": "",
+        "listing_price": "365"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/985390832322641472?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-28&check_out=2025-05-03&children=0&infants=0&pets=0&photo_id=1996447633&source_impression_id=p3_1744736140_P3IDGgbtaQi4Z6Hw&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "The Blue Room",
+        "listing_type": "",
+        "listing_price": "865"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/46025711?search_mode=regular_search&adults=1&check_in=2025-04-22&check_out=2025-04-29&children=0&infants=0&pets=0&source_impression_id=p3_1744736140_P3lf2Yi_WxnBWYP0&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "138 Bowery-Classic Queen Studio",
+        "listing_type": "",
+        "listing_price": "1598"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/49756756?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-24&check_out=2025-05-29&children=0&infants=0&pets=0&photo_id=1411388441&source_impression_id=p3_1744736140_P3DtIGzlJIj8DGJm&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Title not found",
+        "listing_type": "Listing Type not found",
+        "listing_price": "1170"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/26925980?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-13&check_out=2025-07-18&children=0&infants=0&pets=0&photo_id=1660260574&source_impression_id=p3_1744736140_P3Nz59CGn9OS7NF1&previous_page_section_name=1000&federated_search_id=9162e8c7-a3e0-44d6-a77e-5a8c5fada800",
+        "title": "Title not found",
+        "listing_type": "Listing Type not found",
+        "listing_price": "620"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/20960203?search_mode=regular_search&adults=1&check_in=2025-06-29&check_out=2025-07-04&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3ACnSe1H6w1O416&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "",
+        "listing_type": "Self check-in",
+        "listing_price": "1940"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1338671620888917668?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-03&check_out=2025-05-08&children=0&infants=0&pets=0&photo_id=2097824055&source_impression_id=p3_1744736147_P3XSiPM2IWsE-Sub&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Shared Duplex in Bushwick (2nd Room)",
+        "listing_type": "",
+        "listing_price": "571"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1075472992489210989?search_mode=regular_search&adults=1&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3GP5HW36VjXTX2x&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Spacious 3 bedroom LES",
+        "listing_type": "Free cancellation for 48 hours",
+        "listing_price": "5063"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/50888320?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&photo_id=1935448565&source_impression_id=p3_1744736147_P3DqCZAvTteqA4Ky&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Penthouse Room near Manhattan Bridge in DUMBO",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "770"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1224073554655958276?search_mode=regular_search&adults=1&check_in=2025-04-16&check_out=2025-04-21&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3aaC1RjFkr70OuU&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Boutique Retreat On The Lower East Side",
+        "listing_type": "",
+        "listing_price": "1187"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/6846956?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P32EPliM_xN9nAVR&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Guest Bedroom in One-of-a-Kind Loft w/ NYC VIEWS",
+        "listing_type": "",
+        "listing_price": "1227"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/14055238?search_mode=regular_search&adults=1&check_in=2025-08-17&check_out=2025-08-22&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3nzJbW56JQ5pLeB&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Spacious Park Block Gem!",
+        "listing_type": "",
+        "listing_price": "1783"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/15485880?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-29&check_out=2025-08-03&children=0&infants=0&pets=0&photo_id=1762371523&source_impression_id=p3_1744736147_P3fmdjYLQxzzZljn&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Private Large Room",
+        "listing_type": "",
+        "listing_price": "1122"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/42952334?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&photo_id=1995136389&source_impression_id=p3_1744736147_P3o3CSlzFDn8AQO0&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "BestRest SUITE NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "365"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1117859419184943659?search_mode=regular_search&adults=1&check_in=2025-05-03&check_out=2025-05-08&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P30ya5jPEbt817AG&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Duplex Apt With Private Patio in Soho",
+        "listing_type": "",
+        "listing_price": "1797"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/610745546680973191?search_mode=regular_search&adults=1&check_in=2025-05-28&check_out=2025-06-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3CowedOsd5x8fWD&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Charming cozy Fort Greene",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "2066"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/52012115?search_mode=regular_search&adults=1&check_in=2025-04-15&check_out=2025-04-20&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3eVPCkO4Z8HpEWE&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "\u2665\ufe0fLovely 1 BR Apt w/ Kitchen in North Jersey",
+        "listing_type": "",
+        "listing_price": "707"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/699472?search_mode=regular_search&adults=1&check_in=2026-01-05&check_out=2026-01-10&children=0&infants=0&pets=0&source_impression_id=p3_1744736147_P3ONqBUCQRumyglf&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "NYC Shipping Container Home, Class B Dwelling Unit",
+        "listing_type": "24-hour self check-in",
+        "listing_price": "1506"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1225568716006717372?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&photo_id=1977044601&source_impression_id=p3_1744736147_P3PrxGEaBv68ogBZ&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Hotel-Style Stays - Never a Stranger\u2019s Home. ID272",
+        "listing_type": "",
+        "listing_price": "387"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/28368678?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-09&check_out=2025-06-14&children=0&infants=0&pets=0&photo_id=575139153&source_impression_id=p3_1744736147_P3fdQtOmWTYd6Ynm&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Boerum Hill Twin BR in a Classic NYC Brownstone",
+        "listing_type": "Top 1% of homes",
+        "listing_price": "976"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/762526483701320413?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-11&check_out=2025-07-16&children=0&infants=0&pets=0&photo_id=1839055075&source_impression_id=p3_1744736147_P33I_1BNq5uDrolg&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Private Room in Williamsburg",
+        "listing_type": "",
+        "listing_price": "730"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/14661553?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1756026366&source_impression_id=p3_1744736147_P3XRyXEPVGCbcwM2&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Bright and clean room in a quaint neighborhood",
+        "listing_type": "",
+        "listing_price": "879"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/929584624748362659?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&photo_id=2082453048&source_impression_id=p3_1744736147_P3wqKKIBaGDlbH_U&previous_page_section_name=1000&federated_search_id=5b351ed9-8e8b-4441-bd40-3d268b0d5b11",
+        "title": "Pelton Getaway.",
+        "listing_type": "",
+        "listing_price": "599"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/17652158?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-08-09&check_out=2025-08-14&children=0&infants=0&pets=0&photo_id=1276779228&source_impression_id=p3_1744736154_P3-Lz0qiMGf-OAiT&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Cozy bedroom in williamsburg",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "550"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/14661553?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1756026366&source_impression_id=p3_1744736154_P36wynTuPNFJpqcU&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Bright and clean room in a quaint neighborhood",
+        "listing_type": "",
+        "listing_price": "879"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/929584624748362659?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&photo_id=2082453048&source_impression_id=p3_1744736154_P3GZRYCvmNklGZ9P&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Pelton Getaway.",
+        "listing_type": "",
+        "listing_price": "599"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/29148293?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-08-06&check_out=2025-08-13&children=0&infants=0&pets=0&photo_id=1583223527&source_impression_id=p3_1744736154_P3epLReKU61ggUv-&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "East Village Guest Suite",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "1954"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1287828599090091641?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3NlFBdajcqyko5y&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Magic Wolf Private Studio in Brooklyn",
+        "listing_type": "Self check-in",
+        "listing_price": "1093"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1343580218661220915?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3x4wfOY60-nuWWm&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Gorgeous 2 Bedroom in Tribeca",
+        "listing_type": "Self check-in",
+        "listing_price": "3760"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1366166879054389530?search_mode=regular_search&adults=1&check_in=2025-06-14&check_out=2025-06-19&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3kFDaqwetdFn1yL&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Garden apt - steps from NYC.",
+        "listing_type": "Self check-in",
+        "listing_price": "1027"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/711820084444046096?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&photo_id=1848536411&source_impression_id=p3_1744736154_P3RJqN87nKg9ReLB&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "1-Bedroom Private Room with Queen Size Bed",
+        "listing_type": "",
+        "listing_price": "451"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/33387469?search_mode=regular_search&adults=1&check_in=2025-06-11&check_out=2025-06-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3dVPLj9zlIFqOfw&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Private Guest Apartment Suite in Townhouse",
+        "listing_type": "",
+        "listing_price": "2715"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/853652057537718017?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3LJb24H7LJF19g1&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Standard 2 Double Beds Room in Soho",
+        "listing_type": "Self check-in",
+        "listing_price": "1581"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/854544231756347666?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&photo_id=1614566412&source_impression_id=p3_1744736154_P3DP0OA9kkX973e7&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Classic Queen room in Soho",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1448"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/27866657?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-20&check_out=2025-07-25&children=0&infants=0&pets=0&photo_id=883681721&source_impression_id=p3_1744736154_P3SOEZFqVHg4xcvX&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Affordable bedroom in Brooklyn townhouse.",
+        "listing_type": "",
+        "listing_price": "428"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/17153913?search_mode=regular_search&adults=1&check_in=2025-07-05&check_out=2025-07-10&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3MqcXUL5cKIhMHa&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Mid-Century Modern Greenpoint GuestSuite",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "3281"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/9064714?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-19&check_out=2025-07-24&children=0&infants=0&pets=0&photo_id=1963572689&source_impression_id=p3_1744736154_P3V5LLnKpovocnq7&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "1870's 3-story house private bedroom",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "770"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/4134035?search_mode=regular_search&adults=1&check_in=2025-06-11&check_out=2025-06-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3byhXQkN4bnyFdK&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Sunny Suite in Brooklyn -3",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "1406"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/28334760?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-24&check_out=2025-06-29&children=0&infants=0&pets=0&photo_id=1597725667&source_impression_id=p3_1744736154_P3xZmkBESUlD0D3D&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Boerum Hill Queen BR in a Classic NYC Brownstone",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "1012"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/838028693896424740?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&photo_id=1825942132&source_impression_id=p3_1744736154_P3kYUwaL2gLlZ27n&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Private Room A in West New York, NJ",
+        "listing_type": "",
+        "listing_price": "462"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1353563469040702914?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736154_P3XfVsQo3TUEkHs0&previous_page_section_name=1000&federated_search_id=7be19176-0645-4148-be56-2ff41f74599d",
+        "title": "Two-Floor Single Home Near NYC",
+        "listing_type": "Self check-in",
+        "listing_price": "827"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/28334760?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-24&check_out=2025-06-29&children=0&infants=0&pets=0&photo_id=1597725667&source_impression_id=p3_1744736161_P3m0bsCrfwHHRVfb&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Boerum Hill Queen BR in a Classic NYC Brownstone",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "1012"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/838028693896424740?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&photo_id=1825942132&source_impression_id=p3_1744736161_P3utnS8hdcOEekJG&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Private Room A in West New York, NJ",
+        "listing_type": "",
+        "listing_price": "462"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1353563469040702914?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736161_P3B2Aqkb6STluOFy&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Two-Floor Single Home Near NYC",
+        "listing_type": "",
+        "listing_price": "827"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/55959?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-26&check_out=2025-05-31&children=0&infants=0&pets=0&photo_id=1577940991&source_impression_id=p3_1744736161_P3xcCk42rx9Ee7Gq&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Work From Our Home w/ Loft",
+        "listing_type": "",
+        "listing_price": "987"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/997986353932503170?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-08-24&check_out=2025-08-29&children=0&infants=0&pets=0&photo_id=1763686593&source_impression_id=p3_1744736161_P3ODADwQhicOH8lD&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Private Bedroom in LES",
+        "listing_type": "",
+        "listing_price": "936"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1319783992417803079?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&photo_id=2055582241&source_impression_id=p3_1744736161_P3UMDBRMCPiFo-hP&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Hotel-Style Stays - Never a Stranger\u2019s Home. ID275",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "421"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1243439250383188600?search_mode=regular_search&adults=1&check_in=2025-06-30&check_out=2025-07-05&children=0&infants=0&pets=0&source_impression_id=p3_1744736161_P3nCgC52VqRKQLPO&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Chic Williamsburg Guest Suite",
+        "listing_type": "Self check-in",
+        "listing_price": "1512"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/649344196401364433?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-10&check_out=2025-06-15&children=0&infants=0&pets=0&photo_id=1638659484&source_impression_id=p3_1744736161_P3E-LrDcGdU2UWkc&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Cool Caribbean Vibe in the City",
+        "listing_type": "",
+        "listing_price": "504"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1176169782467978285?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&photo_id=1927234722&source_impression_id=p3_1744736161_P3k4oO5nNn0UwoD5&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Hotel-Style Stays - Never a Stranger\u2019s Home. ID298",
+        "listing_type": "",
+        "listing_price": "460"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1115297010096422462?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736161_P3BRwwBiA70pxh6x&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Deluxe Corner King in NYC",
+        "listing_type": "",
+        "listing_price": "1301"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/19194956?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-19&check_out=2025-05-24&children=0&infants=0&pets=0&photo_id=1639939255&source_impression_id=p3_1744736161_P3uhwfiqQWFBoPlz&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Budget traveler's private room 2C",
+        "listing_type": "Room in a home",
+        "listing_price": "326"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1025026416481257890?search_mode=regular_search&adults=1&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736161_P31gTgthZbOPBKg6&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Prime soho 2 bedroom",
+        "listing_type": "Great check-in experience",
+        "listing_price": "3937"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/42951218?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&photo_id=1995115625&source_impression_id=p3_1744736161_P3aQcEu6k-NtMX78&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "BestRest #1 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+        "listing_type": "",
+        "listing_price": "337"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1105403969448940593?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&photo_id=1854219883&source_impression_id=p3_1744736161_P36oW1Pt6g2-w9_Q&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Small Room B in West New York, NJ",
+        "listing_type": "",
+        "listing_price": "283"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/604574846282012598?search_mode=regular_search&adults=1&check_in=2025-05-24&check_out=2025-05-29&children=0&infants=0&pets=0&source_impression_id=p3_1744736161_P33Ywr7VBkAdS4uB&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Tranquil Oasis in Heart of NYC (at subway hub)",
+        "listing_type": "Self check-in",
+        "listing_price": "1809"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/52128553?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-01&check_out=2025-06-06&children=0&infants=0&pets=0&photo_id=1941771307&source_impression_id=p3_1744736161_P3XcsVXtsqVHWS6Y&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Luxury Room w/ Backyard + Close Transportation",
+        "listing_type": "",
+        "listing_price": "775"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/16004776?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-15&check_out=2025-06-20&children=0&infants=0&pets=0&photo_id=268073752&source_impression_id=p3_1744736161_P3uYwZKik_PGYxE8&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Bright Garden Room with Kitchenette",
+        "listing_type": "",
+        "listing_price": "896"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/605996268269119724?search_mode=regular_search&adults=1&check_in=2025-05-26&check_out=2025-05-31&children=0&infants=0&pets=0&source_impression_id=p3_1744736161_P3dCFpY7O1_4_e4b&previous_page_section_name=1000&federated_search_id=6c4ef5cd-cee3-4785-9d60-d62252ccee87",
+        "title": "Full service modern apt. Sleeps 4. Prime location",
+        "listing_type": "Self check-in",
+        "listing_price": "1440"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1368875558699241820?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3TC15XqCoL_Q1jj&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "New!3BR Transit-friendly Home|PATH&Bus|Retro game",
+        "listing_type": "Self check-in",
+        "listing_price": "2579"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/45634265?search_mode=regular_search&adults=1&check_in=2025-06-30&check_out=2025-07-05&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3iJAq3yNzuXA5VE&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Charming Cobble Hill/Brooklyn Heights Apartment",
+        "listing_type": "",
+        "listing_price": "1409"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/31994?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&photo_id=419266&source_impression_id=p3_1744736168_P3Bm0a-Duq6Ef4iS&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Room with En Suite Bathroom & Deck",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "773"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/924661177517760255?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-07&check_out=2025-05-12&children=0&infants=0&pets=0&photo_id=1905547657&source_impression_id=p3_1744736168_P3wGar87jQ5b7UrX&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Top floor loft in historic home close to NYC!",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "628"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/42951960?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1995132152&source_impression_id=p3_1744736168_P35lRuL_eilO7TbW&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "BestRest #2 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "337"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/648733914773975406?search_mode=regular_search&adults=1&check_in=2025-06-26&check_out=2025-07-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3TrqgFizIbi3Kgz&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Cozy spot for you in the heart of Manhattan!",
+        "listing_type": "",
+        "listing_price": "900"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/19348993?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-15&check_out=2025-06-20&children=0&infants=0&pets=0&photo_id=1931821520&source_impression_id=p3_1744736168_P3CG-qDKIGHAxfZ1&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Budget traveler's private room 2A",
+        "listing_type": "",
+        "listing_price": "320"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/783202?search_mode=regular_search&adults=1&check_in=2025-05-02&check_out=2025-05-07&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3rRp2GY0sq87GKJ&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Title not found",
+        "listing_type": "Listing Type not found",
+        "listing_price": "1655"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/870119?search_mode=regular_search&adults=1&check_in=2025-07-01&check_out=2025-07-06&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3OSogP6fttXzYa1&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Your own 2BR Duplex w Deck + Backyard",
+        "listing_type": "",
+        "listing_price": "2756"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/18838040?search_mode=regular_search&adults=1&check_in=2025-07-06&check_out=2025-07-11&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3jtQJGewnhdTlEW&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Historic District: Enchanting, quiet & peaceful",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "1757"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/52772578?search_mode=regular_search&adults=1&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3ORxGV-Wy94R9Zx&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "4 Bedroom Premium Gourmet | Placemakr Wall Street",
+        "listing_type": "Designed for staying cool",
+        "listing_price": "4237"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1011072336902713153?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-24&check_out=2025-04-29&children=0&infants=0&pets=0&photo_id=1768114743&source_impression_id=p3_1744736168_P3cPCcTHnR6jp5B1&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "New fully furnished private bedroom!",
+        "listing_type": "",
+        "listing_price": "503"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/32163086?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=2094405825&source_impression_id=p3_1744736168_P34_0E0KqfxRkEOl&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "45 min to Manhattan Private Room #2",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "331"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/41301073?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-16&check_out=2025-06-21&children=0&infants=0&pets=0&photo_id=1109593645&source_impression_id=p3_1744736168_P3mHLOHjmYAckPTH&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Private Brooklyn Bedroom in Brownstone Near Subway",
+        "listing_type": "",
+        "listing_price": "588"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1055444597484933368?search_mode=regular_search&adults=1&check_in=2025-07-28&check_out=2025-08-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P3K-asuvWQ9z5So-&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Private Backyard - 2 Bedrooms Close to City",
+        "listing_type": "",
+        "listing_price": "1609"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/885670712651409183?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-15&check_out=2025-04-20&children=0&infants=0&pets=0&photo_id=1645506859&source_impression_id=p3_1744736168_P3gzlq_P4V21u4X3&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Cozy 1BR/1BA Unit in Bayonne near NYC",
+        "listing_type": "",
+        "listing_price": "433"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/982172393543000727?search_mode=regular_search&adults=1&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&source_impression_id=p3_1744736168_P343LqD-ucWjKg0B&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "ParkSlope Loft/Private NYC Rooftop /10 min to NYC",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "3519"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/972740017700582747?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-22&check_out=2025-07-27&children=0&infants=0&pets=0&photo_id=1733053526&source_impression_id=p3_1744736168_P3z6HP7XMUT0mslP&previous_page_section_name=1000&federated_search_id=01f020b6-72be-48a8-92bb-99694ab0cf2a",
+        "title": "Cuencanita Rooms",
+        "listing_type": "Room in a home",
+        "listing_price": "249"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1055444597484933368?search_mode=regular_search&adults=1&check_in=2025-07-28&check_out=2025-08-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3lhjJP_dXWhhllV&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Private Backyard - 2 Bedrooms Close to City",
+        "listing_type": "",
+        "listing_price": "1609"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/513695012431520567?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-26&check_out=2025-05-31&children=0&infants=0&pets=0&photo_id=1795845975&source_impression_id=p3_1744736175_P3456O8WJa0H-Kct&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Noble House #1",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "841"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/53045446?search_mode=regular_search&adults=1&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3k_NhRsvG7njB1_&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "1 Bedroom Plus Apt | Placemakr Wall Street",
+        "listing_type": "",
+        "listing_price": "2181"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/885670712651409183?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-15&check_out=2025-04-20&children=0&infants=0&pets=0&photo_id=1645506859&source_impression_id=p3_1744736175_P3q9zi5W5ow9bisj&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Cozy 1BR/1BA Unit in Bayonne near NYC",
+        "listing_type": "",
+        "listing_price": "433"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1376341912716726109?search_mode=regular_search&adults=1&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P31RqF6fOaWore04&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Moon Loft",
+        "listing_type": "Self check-in",
+        "listing_price": "839"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/982172393543000727?search_mode=regular_search&adults=1&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3Sq2PsMGFyY8DvG&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "ParkSlope Loft/Private NYC Rooftop /10 min to NYC",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "3519"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/972740017700582747?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-22&check_out=2025-07-27&children=0&infants=0&pets=0&photo_id=1733053526&source_impression_id=p3_1744736175_P3UR5ELca52SRh-p&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Cuencanita Rooms",
+        "listing_type": "Room in a home",
+        "listing_price": "249"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1144206955380638834?search_mode=regular_search&adults=1&check_in=2025-06-29&check_out=2025-07-04&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3agCwxPFCdTwPYZ&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Elegant silent Apartment East Village",
+        "listing_type": "Great check-in experience",
+        "listing_price": "3994"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/31301754?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&photo_id=1732321401&source_impression_id=p3_1744736175_P3d91fkuGXOr9PZZ&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Comfy & legally registered Room in Brooklyn",
+        "listing_type": "",
+        "listing_price": "544"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/19348993?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-15&check_out=2025-06-20&children=0&infants=0&pets=0&photo_id=1931821520&source_impression_id=p3_1744736175_P38zDOSjf7ZtHz9C&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Budget traveler's private room 2A",
+        "listing_type": "",
+        "listing_price": "320"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/32857674?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3hNEsChGHxuWDIY&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Brooklyn modern studio apartment!",
+        "listing_type": "Exceptional check-in experience",
+        "listing_price": "981"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/696616459846609727?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3VGOaCz_xf2Wp7K&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "SoHo Deluxe Double Deck Room in Hotel Comfort",
+        "listing_type": "",
+        "listing_price": "1181"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/809308909633542851?search_mode=regular_search&adults=1&check_in=2025-07-04&check_out=2025-07-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3cq9ksZMpfwOagi&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Guest suite in owners home",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "1415"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/6746003?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1907639443&source_impression_id=p3_1744736175_P37Y3uXrZfErzjck&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Family Style Shared Retro Stay - Staten Island NYC",
+        "listing_type": "",
+        "listing_price": "415"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/30537134?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-03&check_out=2025-05-08&children=0&infants=0&pets=0&photo_id=672872233&source_impression_id=p3_1744736175_P3_ViWE1wTpspGyU&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "202#Flushing downtown luxury suite",
+        "listing_type": "",
+        "listing_price": "612"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/11371773?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&photo_id=1951249231&source_impression_id=p3_1744736175_P3hFLSoXTlOGZkp0&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Private bathroom and garden view",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1078"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1388289418718680040?search_mode=regular_search&adults=1&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P33nNtJ8nkhet6dq&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Trendy NYC Stay Close to It All",
+        "listing_type": "Self check-in",
+        "listing_price": "1569"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/625327900692074881?search_mode=regular_search&adults=1&check_in=2025-06-29&check_out=2025-07-04&children=0&infants=0&pets=0&source_impression_id=p3_1744736175_P3tH0r9GJWkyfIVw&previous_page_section_name=1000&federated_search_id=7cf93848-3c70-4711-8140-b714dd130452",
+        "title": "Luxurious Soho Apartment~ 3 Bedroom 2 Bathroom",
+        "listing_type": "Self check-in",
+        "listing_price": "7132"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/26395314?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-31&check_out=2025-06-05&children=0&infants=0&pets=0&photo_id=942599253&source_impression_id=p3_1744736183_P3ZSsIH9Du53maeM&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Sean's Homestead,the Green Room.",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "510"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1314646346534620105?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-17&check_out=2025-04-22&children=0&infants=0&pets=0&photo_id=2051562024&source_impression_id=p3_1744736183_P3Jrv9IvKLpBhs6c&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Hotel-Style Stays - Never a Stranger\u2019s Home. ID267",
+        "listing_type": "",
+        "listing_price": "409"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/30096719?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-22&check_out=2025-06-27&children=0&infants=0&pets=0&photo_id=1275271717&source_impression_id=p3_1744736183_P3eLlhGc9xmJvbOy&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Private Room + Bathroom in Fort Greene",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1187"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1322046742094407628?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-01&check_out=2025-07-06&children=0&infants=0&pets=0&photo_id=2057443028&source_impression_id=p3_1744736183_P3R62QOHuhbPc3oy&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "New The Artist Loft",
+        "listing_type": "Room in a home",
+        "listing_price": "661"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/54344557?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-17&check_out=2025-05-22&children=0&infants=0&pets=0&photo_id=1323307259&source_impression_id=p3_1744736183_P3sVH1b1mZ5k8m_a&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Full Bed & En-suite Bathroom | WFH Space & Mirror",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "704"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/701279449329328106?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-11-13&check_out=2025-11-18&children=0&infants=0&pets=0&photo_id=1477610036&source_impression_id=p3_1744736183_P3m6s0n6QFtJP_Xv&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Full size private bedroom!",
+        "listing_type": "",
+        "listing_price": "371"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/41772235?search_mode=regular_search&adults=1&check_in=2025-05-17&check_out=2025-05-22&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3JCQFahEE9HNbfE&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Brownstone living in the heart of Park Slope",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "2996"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/32568568?search_mode=regular_search&adults=1&check_in=2025-11-22&check_out=2025-11-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3sJBkyM-RFF627l&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Designer studio-center of it all",
+        "listing_type": "",
+        "listing_price": "884"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/26395486?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-17&check_out=2025-07-22&children=0&infants=0&pets=0&photo_id=533396840&source_impression_id=p3_1744736183_P3Ww-29wHWTLhTy_&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Sean's Jersey City Homestead,the Double Room.",
+        "listing_type": "",
+        "listing_price": "541"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1095303457850517678?search_mode=regular_search&adults=1&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3vQLbDovku3gT9l&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "2 Bedroom Gem in Financial",
+        "listing_type": "",
+        "listing_price": "2575"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/42672172?search_mode=regular_search&adults=1&check_in=2025-06-22&check_out=2025-06-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3FdS6Va5YpRpl76&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Near Gramercy Park/ Private Entrance",
+        "listing_type": "",
+        "listing_price": "776"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/670528666075637080?search_mode=regular_search&adults=1&check_in=2025-06-15&check_out=2025-06-20&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3xVr1w9gpqzzV61&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Private suite in Fortgreene Brooklyn",
+        "listing_type": "Designed for staying cool",
+        "listing_price": "907"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/670995597932829338?search_mode=regular_search&adults=1&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3H4_VsHbXhBzqZn&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Gorgeous Rennovated Apartment",
+        "listing_type": "Self check-in",
+        "listing_price": "1010"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/739893082098924286?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-15&check_out=2025-04-20&children=0&infants=0&pets=0&photo_id=1510641000&source_impression_id=p3_1744736183_P3Ib7ITKbFJp7WT3&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Lovely room for rent with shared bathroom",
+        "listing_type": "Self check-in",
+        "listing_price": "519"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/8054651?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-10&check_out=2025-06-15&children=0&infants=0&pets=0&photo_id=417342601&source_impression_id=p3_1744736183_P34H3aK8Y7SGXEA8&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Private Sunlight Room in Brownstone Near Subway",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "588"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/963256479828059786?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P3_EV0Kn8Ok1JtMT&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Skylight Loft",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "1250"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/27785634?search_mode=regular_search&adults=1&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736183_P396Y1xfdiK2yRRz&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Cozy Apt Dwntwn JC, 8 mins to NYC(APT 2)",
+        "listing_type": "Self check-in",
+        "listing_price": "902"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/12344456?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-30&check_out=2025-07-05&children=0&infants=0&pets=0&photo_id=1162215061&source_impression_id=p3_1744736183_P3RoGXf-V2WSCYN1&previous_page_section_name=1000&federated_search_id=df21fdbf-2196-4843-b583-48c0816556ca",
+        "title": "Private room, entrance &bathroom in GREAT location",
+        "listing_type": "",
+        "listing_price": "856"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/8054651?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-10&check_out=2025-06-15&children=0&infants=0&pets=0&photo_id=417342601&source_impression_id=p3_1744736189_P325LLlE6-IBhMte&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Private Sunlight Room in Brownstone Near Subway",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "588"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/963256479828059786?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P38QUrSJTxilXPV7&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Skylight Loft",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "1250"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/27785634?search_mode=regular_search&adults=1&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P38RWJGXU3nzlQps&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Cozy Apt Dwntwn JC, 8 mins to NYC(APT 2)",
+        "listing_type": "Self check-in",
+        "listing_price": "902"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/12344456?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-30&check_out=2025-07-05&children=0&infants=0&pets=0&photo_id=1162215061&source_impression_id=p3_1744736189_P3DRObN0FcEOXTtY&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Private room, entrance &bathroom in GREAT location",
+        "listing_type": "",
+        "listing_price": "856"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1014657144205221078?search_mode=regular_search&adults=1&check_in=2025-05-30&check_out=2025-06-04&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3d1lN8QB623rcFM&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Charming East Village Studio",
+        "listing_type": "",
+        "listing_price": "1284"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1219761487691460780?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-15&check_out=2025-04-20&children=0&infants=0&pets=0&photo_id=1973090050&source_impression_id=p3_1744736189_P3Ka_Gy9gh1_Ok2N&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "New York City Apartment Near Free Ferry Boat!",
+        "listing_type": "",
+        "listing_price": "764"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/630606368063091272?search_mode=regular_search&adults=1&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3-ux04ITnIOAgWb&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "The little Habitat .",
+        "listing_type": "",
+        "listing_price": "1526"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1264155951087574235?search_mode=regular_search&adults=1&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3-amCkjiufR6lVx&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Free Parking |5 Guests |15mn to Newark 30mn to NYC",
+        "listing_type": "Self check-in",
+        "listing_price": "813"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/30592230?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-11-17&check_out=2025-11-22&children=0&infants=0&pets=0&photo_id=636687393&source_impression_id=p3_1744736189_P3H7Bqc4EcNpK6so&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Lovely private bed/bath Paulus Hook, Jersey City",
+        "listing_type": "",
+        "listing_price": "656"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1008073352246997879?search_mode=regular_search&adults=1&check_in=2025-07-13&check_out=2025-07-18&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3aNlq_oZz_236Jd&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Gorgeous Triplex w/ Roof Deck - Luxury 5 Star Stay",
+        "listing_type": "Designed for staying cool",
+        "listing_price": "6372"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/842776676158517297?search_mode=regular_search&adults=1&check_in=2025-06-14&check_out=2025-06-19&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3r6Qaga1BGrLiob&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Guest Suite in Charming Townhouse",
+        "listing_type": "",
+        "listing_price": "2014"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/30593915?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1836173898&source_impression_id=p3_1744736189_P308IcZ27CTMzobA&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "203#Flushing downtown luxury suite",
+        "listing_type": "Room in a home",
+        "listing_price": "549"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1372442138098905309?search_mode=regular_search&adults=1&check_in=2025-04-25&check_out=2025-04-30&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3rsBn0E_rBAAC29&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "New!1800 sqft |King Bed + Game Room |20 min to NYC",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "2252"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/45769005?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-25&check_out=2025-05-30&children=0&infants=0&pets=0&photo_id=1078158596&source_impression_id=p3_1744736189_P3tmTaw0ptMbPVPn&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Private Room Bathroom NYC, Prudential & EWR Airpor",
+        "listing_type": "",
+        "listing_price": "288"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/52611526?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-19&check_out=2025-05-24&children=0&infants=0&pets=0&photo_id=1936077706&source_impression_id=p3_1744736189_P3xWA2OBLxueakcJ&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Bright Clean Room near Manhattan Bridge w/ balcony",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "902"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1064008814555947087?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&photo_id=1977442072&source_impression_id=p3_1744736189_P3ejJVwtu4-tBpq5&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Private bedroom in Newark Room 4",
+        "listing_type": "",
+        "listing_price": "245"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/897881802603922754?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-08-01&check_out=2025-08-06&children=0&infants=0&pets=0&photo_id=1658426636&source_impression_id=p3_1744736189_P3MyfOVmKPVUG8pG&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "\u201cThe Big Apple \u201c",
+        "listing_type": "",
+        "listing_price": "444"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1037893954700010142?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736189_P3Rgjdi3M68-vSqq&previous_page_section_name=1000&federated_search_id=86b7bd4e-7b96-4c5f-94c8-db965ac7b3d6",
+        "title": "Brooklyn's Heart",
+        "listing_type": "Self check-in",
+        "listing_price": "993"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1361100259870646934?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&photo_id=2093417888&source_impression_id=p3_1744736196_P3h45wiLS5U9ZUaF&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Hotel-Style Stays - Never a Stranger\u2019s Home. ID283",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "414"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/624678118491722763?search_mode=regular_search&adults=1&check_in=2025-06-29&check_out=2025-07-04&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3qdlNAR2-awuhEk&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Cozy and Chic Studio Loft in Midtown NYC! #3302",
+        "listing_type": "Self check-in",
+        "listing_price": "2202"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1366067531142652091?search_mode=regular_search&adults=1&check_in=2025-07-27&check_out=2025-08-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3ysWyJZxeb0HZVS&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Charming 2BR Hoboken Retreat \u2013 Steps to NYC!",
+        "listing_type": "Designed for staying cool",
+        "listing_price": "1507"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/624687753142583669?search_mode=regular_search&adults=1&check_in=2025-09-09&check_out=2025-09-14&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3RFJwnyi9rnTAbg&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Stylish Loft in East Midtown NYC! #4402",
+        "listing_type": "Self check-in",
+        "listing_price": "2339"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/626275397107163081?search_mode=regular_search&adults=1&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3eR05sFnhl4lN8W&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Queen Bed w/Private Bath!CentralHeat!Quality!Wi-Fi",
+        "listing_type": "Great check-in experience",
+        "listing_price": "298"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1374152997791665444?search_mode=regular_search&adults=1&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3goBa7KpwD-J0D0&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "NYC Comfort: Free Parking + Space - Sleeps 8!",
+        "listing_type": "Self check-in",
+        "listing_price": "1119"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/42952051?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&photo_id=1995138719&source_impression_id=p3_1744736196_P397Iu8h8rqQgybt&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "BestRest #4 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "337"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/890578160748025477?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-22&check_out=2025-05-27&children=0&infants=0&pets=0&photo_id=1854237467&source_impression_id=p3_1744736196_P3sBPNd9BwH44L1o&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Comfy Room in Central Brooklyn",
+        "listing_type": "",
+        "listing_price": "941"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/5989369?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3rlM1uRZUiWxVGq&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Entire apartment Super nice clean and close to NYC",
+        "listing_type": "",
+        "listing_price": "668"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/985788761158310211?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1948464869&source_impression_id=p3_1744736196_P3lZaUKOlij1ZWbp&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Beautiful Bedroom in Lower East Side",
+        "listing_type": "",
+        "listing_price": "822"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/16055831?search_mode=regular_search&adults=1&check_in=2025-06-14&check_out=2025-06-19&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3nYjX1C1cgMJ1TR&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Jersey City Victorian Home w/ Parking and Backyard",
+        "listing_type": "",
+        "listing_price": "1906"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1003114539204274385?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-13&check_out=2025-05-18&children=0&infants=0&pets=0&photo_id=1763050413&source_impression_id=p3_1744736196_P34q4BWMRa9Kf3wV&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Private room near New York",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "291"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1378675751263256760?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=2109336144&source_impression_id=p3_1744736196_P38cpEwNfZBD3v6q&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Bedroom in Loft Overlooking Manhattan",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "918"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1265414200569723554?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&photo_id=2010309554&source_impression_id=p3_1744736196_P3jfAPwrr4ulyYNj&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Simple Budget-friendly Room minutes from NYC",
+        "listing_type": "",
+        "listing_price": "406"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/963888047601554678?search_mode=regular_search&adults=1&check_in=2025-06-22&check_out=2025-06-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3LECDoDrth9s3Zz&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Cloud Suite",
+        "listing_type": "Self check-in",
+        "listing_price": "1883"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1187271056124244392?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-20&check_out=2025-04-25&children=0&infants=0&pets=0&photo_id=1939006728&source_impression_id=p3_1744736196_P3gRi0bpx3AS_yX8&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Big room 2 Beds Desk Wi-Fi Roku TV min to NY",
+        "listing_type": "",
+        "listing_price": "347"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1167995766552835416?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-16&check_out=2025-06-21&children=0&infants=0&pets=0&photo_id=1987183617&source_impression_id=p3_1744736196_P3_KwJPBBxKeLIsA&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Massive Room w/ Private Bath, Laundry, and Yard",
+        "listing_type": "",
+        "listing_price": "887"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1388410937976258991?search_mode=regular_search&adults=1&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&source_impression_id=p3_1744736196_P3kYb79nqycUgZyv&previous_page_section_name=1000&federated_search_id=97d8a53a-1184-4e0f-b09b-b1228ad76664",
+        "title": "Sleek Manhattan Pad in Prime Location",
+        "listing_type": "Self check-in",
+        "listing_price": "1849"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1214181323231993112?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-24&check_out=2025-05-29&children=0&infants=0&pets=0&photo_id=1978060626&source_impression_id=p3_1744736203_P3LJeEh-gm04_Jig&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Cat Cozy Haven in Prime Location",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "637"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/53772599?search_mode=regular_search&adults=1&check_in=2025-05-01&check_out=2025-05-06&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P39isDo28FcCs1Qr&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Cheerful bedroom on quiet street, with free WiFi.",
+        "listing_type": "Self check-in",
+        "listing_price": "386"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/5298896?search_mode=regular_search&adults=1&check_in=2025-07-11&check_out=2025-07-16&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3e21vnVLqZX2RZ8&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Unique NYC Loft - Guest Room",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "1188"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1376858144881556146?search_mode=regular_search&adults=1&check_in=2025-06-22&check_out=2025-06-27&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3B8PMTgiTyHIe0Z&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Fresh 2Bed Gem-15min to NYC-3min Walk to Bus/Train",
+        "listing_type": "Self check-in",
+        "listing_price": "988"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1359703325354680777?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&photo_id=2093105981&source_impression_id=p3_1744736204_P3Sy08wp0nRwNsLS&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Cozy & convenient room near NYC",
+        "listing_type": "Room in a home",
+        "listing_price": "379"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/42075992?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-18&check_out=2025-05-23&children=0&infants=0&pets=0&photo_id=1035163870&source_impression_id=p3_1744736204_P31i5ki9U3fBOOJT&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Newly renovated, Clean & Close to NYC",
+        "listing_type": "Room in a home",
+        "listing_price": "377"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/21596787?search_mode=regular_search&adults=1&check_in=2025-11-08&check_out=2025-11-13&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3WuG-V2VbmXFjGn&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Garden Studio Minutes to Lower Manhattan",
+        "listing_type": "Top 5% of homes",
+        "listing_price": "782"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1156614671118327928?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-16&check_out=2025-04-21&children=0&infants=0&pets=0&photo_id=2117095061&source_impression_id=p3_1744736204_P328eQb4X-Ff4WbY&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Private Queen Bedroom with Private Bathroom",
+        "listing_type": "",
+        "listing_price": "577"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/39282?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-10&check_out=2025-05-15&children=0&infants=0&pets=0&photo_id=1570334092&source_impression_id=p3_1744736204_P3f-q3gkFnBIbktQ&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "\u201cWork-from-home\u201d from OUR home.",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1021"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1317757101543582726?search_mode=regular_search&adults=1&check_in=2025-06-08&check_out=2025-06-13&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3aUqbfzKipmfU1m&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "#2 - King Bed in Cozy Private Studio Suite",
+        "listing_type": "",
+        "listing_price": "708"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/692217645174890864?search_mode=regular_search&adults=1&check_in=2025-04-18&check_out=2025-04-23&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3L1EGIifEz2HlKY&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "SoHo View Premier Corner Room in Hotel Comfort",
+        "listing_type": "",
+        "listing_price": "1489"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1378515259627280545?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3PLB00fIJLkff37&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Bright and Cozy 2BR Near NYC | Free Parking",
+        "listing_type": "Self check-in",
+        "listing_price": "957"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/821696410930364310?search_mode=regular_search&adults=1&check_in=2025-04-19&check_out=2025-04-24&children=0&infants=0&pets=0&source_impression_id=p3_1744736204_P3ypA_qPHO64TvFw&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Lulu Loft / Bayonne, Ave C",
+        "listing_type": "Great check-in experience",
+        "listing_price": "634"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/663812250075043786?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&photo_id=1440244637&source_impression_id=p3_1744736204_P3XcIfdqdnYY7VsB&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Spacious Modern Room 2-C",
+        "listing_type": "Room in a home",
+        "listing_price": "320"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1385084519315199929?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-12-01&check_out=2025-12-06&children=0&infants=0&pets=0&photo_id=2118392534&source_impression_id=p3_1744736204_P3OsHCS9dq5RbvGQ&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Private Hoboken Room Near NYC",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "445"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/53817985?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-02&check_out=2025-07-07&children=0&infants=0&pets=0&photo_id=1306599710&source_impression_id=p3_1744736204_P3hNjbQVfrg4ukf6&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Private Room within literal minutes of Everything!",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "527"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/52921783?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-06-21&check_out=2025-06-26&children=0&infants=0&pets=0&photo_id=1643231624&source_impression_id=p3_1744736204_P3lUn8WGy3cRvDfv&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Spacious and cozy private room in Bushwick",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "833"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/28379264?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1372053616&source_impression_id=p3_1744736204_P3rZSbBxasBJ5s-p&previous_page_section_name=1000&federated_search_id=64b53dc4-5092-4fa8-bb83-5d4a8bb69540",
+        "title": "Spacious bedroom in Bed Stuy Brooklyn",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "902"
     }
 ]
