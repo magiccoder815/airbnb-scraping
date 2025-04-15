@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+import re
 
 # Set up the WebDriver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
@@ -49,10 +50,41 @@ for link in listing_links:
         title_text = 'Title not found'
         print(f"Error retrieving title: {e}")
 
+    # Extract the Room Type
+    try:
+        listing_type = driver.find_element(By.CSS_SELECTOR, 'h3.hpipapi')  # Adjust the selector as needed
+        listing_type_text = listing_type.text.strip() if title else 'Listing Type not found'
+    except Exception as e:
+        title_text = 'Listing Type not found'
+        print(f"Error retrieving Listing Type: {e}")    
+
+    # Extract the listing price
+    price_text = 'Price not found'
+    try:
+        # Try the first price class
+        listing_price = driver.find_element(By.CSS_SELECTOR, 'span.u1qzfr7o')
+        print(listing_price)
+        price_text = listing_price.text.strip() if listing_price else price_text
+    except Exception:
+        try:
+            # Try the second price class
+            listing_price = driver.find_element(By.CSS_SELECTOR, 'span.umuerxh')
+            price_text = listing_price.text.strip() if listing_price else price_text
+        except Exception as e:
+            print(f"Error retrieving price: {e}")
+    print("price----: ", price_text)
+    # Extract numerical value from price text
+    if price_text != 'Price not found':
+        # Use regex to find numbers in the price text
+        price_number = re.sub(r'[^\d]', '', price_text)  # Remove everything except digits
+    else:
+        price_number = 'Price not found'
     # You can extract more details as needed
     listing_details.append({
         'link': link,
         'title': title_text,
+        'listing_type': listing_type_text,
+        'listing_price': price_number
     })
 
 # Save the listing details to a JSON file
