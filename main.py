@@ -1,97 +1,100 @@
 import json
 import time
+import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-import re
 
 # Set up the WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+options = webdriver.ChromeOptions()
+options.add_argument("--start-maximized")
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# Open the URL
+# Open the Airbnb listings page
 url = "https://www.airbnb.com/s/New-York--NY-10002/homes"
 driver.get(url)
 
-# Allow time for the page to load
-time.sleep(5)  # Adjust sleep time as necessary
+# Wait for page to load
+time.sleep(5)
 
-# Find the main div containing the listings
-listings_div = driver.find_element(By.CSS_SELECTOR, "div.gsgwcjk.atm_10yczz8_kb7nvz")  # Adjust class as needed
+# Step 1: Extract all listing links and prices without leaving the page
+listing_data = []
 
-# Find all individual listing divs within the main div
-listing_divs = listings_div.find_elements(By.CSS_SELECTOR, "div.c965t3n.atm_9s_11p5wf0.atm_dz_1osqo2v")  # Adjust to match actual listing divs
+try:
+    listings_div = driver.find_element(By.CSS_SELECTOR, "div.gsgwcjk.atm_10yczz8_kb7nvz")
+    listing_divs = listings_div.find_elements(By.CSS_SELECTOR, "div.c965t3n.atm_9s_11p5wf0.atm_dz_1osqo2v")
 
-# Extract links from each listing
-listing_links = []
-for div in listing_divs:
-    link = div.find_element(By.TAG_NAME, "a")
-    if link and link.get_attribute("href"):
-        listing_links.append(link.get_attribute("href"))
+    for index, div in enumerate(listing_divs):
+        try:
+            link_elem = div.find_element(By.TAG_NAME, "a")
+            link = link_elem.get_attribute("href")
 
-# Save the links to a JSON file
-with open('listing_links.json', 'w') as json_file:
-    json.dump(listing_links, json_file, indent=4)
+            # Try to extract the price from one of the known classes
+            price_text = 'Price not found'
+            try:
+                price_elem = div.find_element(By.CSS_SELECTOR, 'span.u1qzfr7o')
+                price_text = price_elem.text.strip()
+            except:
+                try:
+                    price_elem = div.find_element(By.CSS_SELECTOR, 'span.umuerxh')
+                    price_text = price_elem.text.strip()
+                except:
+                    pass
 
-print(f"Saved {len(listing_links)} links to listing_links.json")
+            price_number = re.sub(r'[^\d]', '', price_text) if price_text != 'Price not found' else price_text
 
-# Now scrape details from each listing link using Selenium
+            listing_data.append({
+                'link': link,
+                'price': price_number
+            })
+
+        except Exception as e:
+            print(f"Error collecting listing #{index+1}: {e}")
+except Exception as e:
+    print("Error finding listings on main page:", e)
+    driver.quit()
+    exit()
+
+# Step 2: Visit each listing and scrape details
 listing_details = []
 
-for link in listing_links:
-    driver.get(link)
-    time.sleep(5)  # Allow time for the page to load
-
-    # Extract the title
+for i, item in enumerate(listing_data):
     try:
-        title = driver.find_element(By.CSS_SELECTOR, 'h1.hpipapi')  # Adjust the selector as needed
-        title_text = title.text.strip() if title else 'Title not found'
-    except Exception as e:
-        title_text = 'Title not found'
-        print(f"Error retrieving title: {e}")
+        driver.get(item['link'])
+        time.sleep(3)  # Wait for page to load
 
-    # Extract the Room Type
-    try:
-        listing_type = driver.find_element(By.CSS_SELECTOR, 'h3.hpipapi')  # Adjust the selector as needed
-        listing_type_text = listing_type.text.strip() if title else 'Listing Type not found'
-    except Exception as e:
-        title_text = 'Listing Type not found'
-        print(f"Error retrieving Listing Type: {e}")    
-
-    # Extract the listing price
-    price_text = 'Price not found'
-    try:
-        # Try the first price class
-        listing_price = driver.find_element(By.CSS_SELECTOR, 'span.u1qzfr7o')
-        print(listing_price)
-        price_text = listing_price.text.strip() if listing_price else price_text
-    except Exception:
+        # Extract listing title
         try:
-            # Try the second price class
-            listing_price = driver.find_element(By.CSS_SELECTOR, 'span.umuerxh')
-            price_text = listing_price.text.strip() if listing_price else price_text
-        except Exception as e:
-            print(f"Error retrieving price: {e}")
-    print("price----: ", price_text)
-    # Extract numerical value from price text
-    if price_text != 'Price not found':
-        # Use regex to find numbers in the price text
-        price_number = re.sub(r'[^\d]', '', price_text)  # Remove everything except digits
-    else:
-        price_number = 'Price not found'
-    # You can extract more details as needed
-    listing_details.append({
-        'link': link,
-        'title': title_text,
-        'listing_type': listing_type_text,
-        'listing_price': price_number
-    })
+            title_elem = driver.find_element(By.CSS_SELECTOR, 'h1.hpipapi')
+            title = title_elem.text.strip()
+        except:
+            title = 'Title not found'
 
-# Save the listing details to a JSON file
-with open('listing_details.json', 'w') as details_file:
-    json.dump(listing_details, details_file, indent=4)
+        # Extract listing type
+        try:
+            type_elem = driver.find_element(By.CSS_SELECTOR, 'h3.hpipapi')
+            listing_type = type_elem.text.strip()
+        except:
+            listing_type = 'Listing Type not found'
 
-print(f"Saved listing details to listing_details.json")
+        listing_details.append({
+            'link': item['link'],
+            'title': title,
+            'listing_type': listing_type,
+            'listing_price': item['price']
+        })
 
-# Close the WebDriver
+        print(f"[{i+1}] Scraped listing: {title} | {listing_type} | {item['price']}")
+    except Exception as e:
+        print(f"Error processing listing #{i+1}: {e}")
+        continue
+
+# Save results to JSON
+with open('listing_details.json', 'w') as f:
+    json.dump(listing_details, f, indent=4)
+
+print("\n✅ Saved all listings to 'listing_details.json'")
+
+# Close the browser
 driver.quit()
