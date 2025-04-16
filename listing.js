@@ -14,7 +14,7 @@ const puppeteer = require("puppeteer");
 
     fs.mkdirSync("listing", { recursive: true });
 
-    for (let zipcode = 10001; zipcode <= 10005; zipcode++) {
+    for (let zipcode = 10002; zipcode <= 10002; zipcode++) {
         console.log(`\n📍 Starting ZIP Code: ${zipcode}`);
         const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes`;
 
@@ -77,6 +77,9 @@ const puppeteer = require("puppeteer");
 
                 // Try to go to the next page, if available
                 if (pageNum < 15) {
+                    await page.waitForSelector('a[aria-label="Next"]', {
+                        timeout: 5000,
+                    });
                     const nextButton = await page.$('a[aria-label="Next"]');
                     // console.log("-------------", nextButton);
                     if (nextButton) {

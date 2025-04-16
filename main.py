@@ -114,9 +114,11 @@ for zipcode in range(10001, 10006):
 
             # Extract host profile URL
             try:
-                host_link_elem = driver.find_element(By.CSS_SELECTOR, 'div.c1416qhh a')
+                host_link_elem = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, 'div.c1416qhh a'))
+                )
                 host_link = host_link_elem.get_attribute("href")
-                print("Host URL: ", host_link)
+                print("Host URL:", host_link)
             except:
                 host_link = 'Host Link not found'
 
