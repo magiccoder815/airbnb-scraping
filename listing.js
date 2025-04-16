@@ -44,7 +44,6 @@ const puppeteer = require("puppeteer");
                         );
                         const link = fullLink.split("?")[0];
                         console.log("link---", link);
-
                         let priceText = "Price not found";
                         const priceSpan =
                             (await divHandle.$("span.u1qzfr7o")) ||
@@ -55,10 +54,10 @@ const puppeteer = require("puppeteer");
                             );
                         }
 
-                        const price =
-                            priceText !== "Price not found"
-                                ? priceText.replace(/[^\d]/g, "")
-                                : priceText;
+                        const priceMatch = priceText.match(/\d+/g);
+                        const price = priceMatch
+                            ? parseInt(priceMatch.join(""))
+                            : null;
                         console.log("price------: ", price);
 
                         listingData.push({
