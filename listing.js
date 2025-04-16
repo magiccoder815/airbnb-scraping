@@ -14,9 +14,9 @@ const puppeteer = require("puppeteer");
 
     fs.mkdirSync("listing", { recursive: true });
 
-    for (let zipcode = 10002; zipcode <= 10002; zipcode++) {
+    for (let zipcode = 10001; zipcode <= 10005; zipcode++) {
         console.log(`\n📍 Starting ZIP Code: ${zipcode}`);
-        const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes`;
+        const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes?currency=EUR`;
 
         await page.goto(baseUrl, { waitUntil: "domcontentloaded" });
         await new Promise((resolve) => setTimeout(resolve, 5000));
@@ -46,8 +46,8 @@ const puppeteer = require("puppeteer");
                         console.log("link---", link);
                         let priceText = "Price not found";
                         const priceSpan =
-                            (await divHandle.$("span.u1qzfr7o")) ||
-                            (await divHandle.$("span.umuerxh"));
+                            (await divHandle.$("span.u1y3vocb")) ||
+                            (await divHandle.$("span._hb913q"));
                         if (priceSpan) {
                             priceText = await priceSpan.evaluate((el) =>
                                 el.innerText.trim()
@@ -114,7 +114,7 @@ const puppeteer = require("puppeteer");
                     .$eval("h1.hpipapi", (el) => el.innerText.trim())
                     .catch(() => "Title not found");
                 const listingType = await page
-                    .$eval("h3.hpipapi", (el) => el.innerText.trim())
+                    .$eval("div.t1kjrihn h2", (el) => el.innerText.trim())
                     .catch(() => "Listing Type not found");
                 await page.waitForSelector("div.c1416qhh a"); // Wait for the host link to be available
                 const hostLink = await page

@@ -56,7 +56,9 @@ const scrapeHostData = async (url, browser) => {
         const infoSpans = Array.from(document.querySelectorAll("span.i9y0ogw"));
         let languages = null,
             location = null,
-            job = null;
+            job = null,
+            city = null,
+            state = null;
 
         infoSpans.forEach((span) => {
             const text = span.innerText.trim();
@@ -67,7 +69,16 @@ const scrapeHostData = async (url, browser) => {
                     .replace(" and ", ", ");
                 languages = raw.split(",").map((l) => l.trim());
             } else if (text.startsWith("Lives in")) {
-                location = text.replace("Lives in", "").trim();
+                const loc = text.replace("Lives in", "").trim();
+                const parts = loc.split(",");
+                if (parts.length === 2) {
+                    city = parts[0].trim();
+                    state = parts[1].trim();
+                } else {
+                    city = loc;
+                    state = null;
+                }
+                location = { city, state };
             } else if (text.startsWith("My work:")) {
                 job = text.replace("My work:", "").trim();
             }
@@ -160,7 +171,8 @@ const scrapeHostData = async (url, browser) => {
             about: host.about || "",
             started_year: host.started_year || "",
             languages: host.languages ? host.languages.join(", ") : "",
-            host_location: host.location || "",
+            host_city: host.location?.city || "",
+            host_state: host.location?.state || "",
             host_job: host.job || "",
             total_listings: host.total_listings || 0,
         };
