@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 
 (async () => {
-    const url = "https://www.airbnb.com/users/show/683333769";
+    const url = "https://www.airbnb.com/users/show/2518984";
 
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
@@ -75,6 +75,18 @@ const puppeteer = require("puppeteer");
             }
         });
 
+        const listingsText = getText("div.vhfsyi9");
+        if (listingsText) {
+            const match = listingsText.match(/View all (\d+) listings/i);
+            if (match) {
+                total_listings = parseInt(match[1], 10);
+            }
+        } else {
+            // Fallback: count .fb4nyux divs
+            const listings = document.querySelectorAll("div.fb4nyux");
+            total_listings = listings.length;
+        }
+
         return {
             host_name,
             avatar_url,
@@ -86,6 +98,7 @@ const puppeteer = require("puppeteer");
             languages,
             location,
             job,
+            total_listings,
         };
     });
 
