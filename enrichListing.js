@@ -42,10 +42,19 @@ const scrapeHostData = async (url, browser) => {
             'span[data-testid="Month hosting-stat-heading"]'
         );
 
+        const monthsText = getText(
+            'span[data-testid="Months hosting-stat-heading"]'
+        );
+
         if (yearsText && /^\d+$/.test(yearsText)) {
             started_year = currentDate.getFullYear() - parseInt(yearsText);
         } else if (monthText && /^\d+$/.test(monthText)) {
             const monthsAgo = parseInt(monthText);
+            const startedDate = new Date();
+            startedDate.setMonth(startedDate.getMonth() - monthsAgo);
+            started_year = startedDate.getFullYear();
+        } else if (monthsText && /^\d+$/.test(monthsText)) {
+            const monthsAgo = parseInt(monthsText);
             const startedDate = new Date();
             startedDate.setMonth(startedDate.getMonth() - monthsAgo);
             started_year = startedDate.getFullYear();
@@ -92,7 +101,7 @@ const scrapeHostData = async (url, browser) => {
             const match = listingsText.match(/View all (\d+) listings/i);
             if (match) total_listings = parseInt(match[1], 10);
         } else {
-            const listings = document.querySelectorAll("div.fb4nyux");
+            const listings = document.querySelectorAll("div.cy5jw6o");
             total_listings = listings.length;
         }
 
