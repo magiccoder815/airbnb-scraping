@@ -103,8 +103,8 @@ const scrapeHostData = async (url, browser) => {
 };
 
 (async () => {
-    const inputPath = path.join(__dirname, "merged_listings.json");
-    const outputPath = path.join(__dirname, "enriched_listings.json");
+    const inputPath = path.join(__dirname, "listing/merged_listings.json");
+    const outputPath = path.join(__dirname, "listing/enriched_listings.json");
 
     const rawData = await fs.readFile(inputPath, "utf-8");
     const listings = JSON.parse(rawData);
