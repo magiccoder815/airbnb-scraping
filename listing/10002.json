@@ -1,1 +1,362 @@
-[]
+[
+    {
+        "link": "https://www.airbnb.com/rooms/734060738824589056",
+        "title": "Title not found",
+        "listing_type": "Listing Type not found",
+        "listing_price": "1592",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/482894767"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1285057395908288186",
+        "title": "Stunning loft in Nolita/Manhattan",
+        "listing_type": "Exceptional check-in experience",
+        "listing_price": "7189",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/555609789"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1305294589180823626",
+        "title": "Entire cozy 1 Bedroom apartment",
+        "listing_type": "At-home coffee",
+        "listing_price": "1364",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/480603123"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1004442886221909241",
+        "title": "Affordable Private Room Manhattan | Blue Bell",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "571",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/259468466"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1021816341440151111",
+        "title": "Oasis in the Heart of New York",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "850",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/444681334"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1207185174397173792",
+        "title": "Boutique Hotel in must-explore neighborhood",
+        "listing_type": "Exceptional check-in experience",
+        "listing_price": "1279",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/581937096"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/213330",
+        "title": "Master Bedroom - Unbelievably RARE Penthouse Oasis",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1426",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/800223"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1086312344495922694",
+        "title": "Bedroom in the heart of LES",
+        "listing_type": "Room in a condo",
+        "listing_price": "890",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/495796281"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1087139137702855655",
+        "title": "Private Bedroom with In Suite bath in LES",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1010",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/391726093"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/734859054165409036",
+        "title": "Upscale Soho Loft 2000 SF",
+        "listing_type": "Great check-in experience",
+        "listing_price": "4523",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/482894767"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/993740332378198800",
+        "title": "Affordable Private Room Manhattan | Blue Echo",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "616",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/243489304"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/752124417745502491",
+        "title": "Kasa Lantern LES | King Room w/ Kitchenette",
+        "listing_type": "Great check-in experience",
+        "listing_price": "2792",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/88566861"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/47162719",
+        "title": "Writer's Sun filled cozy room , super convenient",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1009",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/22309428"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1054463012526523296",
+        "title": "Charming Apartment with a private backyard",
+        "listing_type": "Room in a tiny home",
+        "listing_price": "926",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/541387885"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1162391790200266813",
+        "title": "Private Room in LES",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "702",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/578708158"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43271004",
+        "title": "138 Bowery-King Suite w. Living Room Space",
+        "listing_type": "",
+        "listing_price": "1369",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/51548122"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/762433518245016623",
+        "title": "Affordable Private Room in Manhattan|Freesia",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "630",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/243489304"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/16821",
+        "title": "Charming Room in Amazing East Village Apt. (B)",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "999",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/4396"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1131289860288054400",
+        "title": "Studio East Village Gallery Oasis",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "747",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/217995958"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/16580",
+        "title": "Sunny, Modern room in East Village w City Views",
+        "listing_type": "Room in a condo",
+        "listing_price": "1341",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/64442"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/987749282672916874",
+        "title": "Lower East Side Sunny One Bedroom",
+        "listing_type": "Self check-in",
+        "listing_price": "1655",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/482894767"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1095774395165850616",
+        "title": "The Yellow Room",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "805",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/391726093"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1105462821419503909",
+        "title": "Sunny Chinatown 1BR",
+        "listing_type": "Great check-in experience",
+        "listing_price": "1238",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/75266494"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/33070946",
+        "title": "Large Private & Sunny Room in Beautiful Townhouse",
+        "listing_type": "Top 10% of homes",
+        "listing_price": "1038",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/248880851"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/6764316",
+        "title": "2 BR Private Guest Suite in Brooklyn Bridge Loft",
+        "listing_type": "24-hour self check-in",
+        "listing_price": "1729",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/362418"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/47924038",
+        "title": "138 Bowery-Modern Studio",
+        "listing_type": "Great check-in experience",
+        "listing_price": "1575",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/51548122"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/53386606",
+        "title": "Large Room in Amazing East Village Apt (A)",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1021",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/4396"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1035063789755603504",
+        "title": "1 private Room in Lower East",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "776",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/495796281"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43315188",
+        "title": "138 Bowery-Classic Studio",
+        "listing_type": "Vibrant neighborhood",
+        "listing_price": "1027",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/51548122"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/2451647",
+        "title": "Bright, Modern Room in East Village w City Views",
+        "listing_type": "Room in a condo",
+        "listing_price": "1341",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/64442"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1147904767726005173",
+        "title": "1Bed 1Bath Apt near EWR, Parking 18' from Penn St.",
+        "listing_type": "Self check-in",
+        "listing_price": "285",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/504802807"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1092280833430415586",
+        "title": "Room in 1BR APT - East Village Oasis",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1319",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/35594166"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1157986393909875539",
+        "title": "Cozy Williamsburg Bedroom",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "833",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/271577882"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1208099973553742658",
+        "title": "Huge Stylish Room in Beautiful Artist Loft",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1358",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/35539450"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/908677070021981560",
+        "title": "Williamsburg: Entire Home near Water",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "1444",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/2393537"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/5406041",
+        "title": "Mod 3 BR duplex-East Village",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "769",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/27974744"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1036945730394332398",
+        "title": "Cozy accommodation Little Italy",
+        "listing_type": "Great check-in experience",
+        "listing_price": "2727",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/548991436"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1224079069637556316",
+        "title": "In The Heart Of Lower East Side | Accessible Room",
+        "listing_type": "Great host communication",
+        "listing_price": "1377",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/594980997"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43315639",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "Listing Type not found",
+        "listing_price": "970",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/51548122"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/43310180",
+        "title": "138 Bowery-Modern Queen Studio",
+        "listing_type": "",
+        "listing_price": "1324",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/51548122"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1240803789013974999",
+        "title": "《》Vintage Bee",
+        "listing_type": "Self check-in",
+        "listing_price": "762",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/276389083"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/14177028",
+        "title": "Gorgeous Room Private Bath Private Best Location",
+        "listing_type": "Room in a townhouse",
+        "listing_price": "1221",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/29219991"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/733422980036577408",
+        "title": "Caribbean Vibes Nookie",
+        "listing_type": "Room in a home",
+        "listing_price": "342",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/423459702"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1064004925759270768",
+        "title": "Private bedroom in Newark Room 3",
+        "listing_type": "Room in a home",
+        "listing_price": "262",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/24561515"
+    },
+    {
+        "link": "https://www.airbnb.com/rooms/1338671620888917668",
+        "title": "Shared Duplex in Bushwick (2nd Room)",
+        "listing_type": "Room in a rental unit",
+        "listing_price": "571",
+        "zipcode": 10002,
+        "host_url": "https://www.airbnb.com/users/show/29941723"
+    }
+]
