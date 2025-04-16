@@ -1,6 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs").promises;
 const path = require("path");
+const XLSX = require("xlsx");
 
 const scrapeHostData = async (url, browser) => {
     const page = await browser.newPage();
@@ -104,7 +105,14 @@ const scrapeHostData = async (url, browser) => {
 
 (async () => {
     const inputPath = path.join(__dirname, "listing/merged_listings.json");
-    const outputPath = path.join(__dirname, "listing/enriched_listings.json");
+    const outputJsonPath = path.join(
+        __dirname,
+        "listing/enriched_listings.json"
+    );
+    const outputExcelPath = path.join(
+        __dirname,
+        "listing/enriched_listings.xlsx"
+    );
 
     const rawData = await fs.readFile(inputPath, "utf-8");
     const listings = JSON.parse(rawData);
@@ -125,6 +133,42 @@ const scrapeHostData = async (url, browser) => {
     }
 
     await browser.close();
-    await fs.writeFile(outputPath, JSON.stringify(listings, null, 2));
-    console.log("✅ Done! Enriched data saved to enriched_listings.json");
+
+    // Save enriched JSON
+    await fs.writeFile(outputJsonPath, JSON.stringify(listings, null, 2));
+    console.log("✅ JSON saved to enriched_listings.json");
+
+    // Prepare flat data for Excel
+    const flatData = listings.map((listing) => {
+        const host = listing.host || {};
+        return {
+            link: listing.link || "",
+            title: listing.title || "",
+            listing_type:
+                listing.listing_type === "Listing Type not found"
+                    ? ""
+                    : listing.listing_type || "",
+            listing_price: listing.listing_price || "",
+            zipcode: listing.zipcode || "",
+            host_url: listing.host_url || "",
+
+            host_name: host.host_name || "",
+            avatar_url: host.avatar_url || "",
+            superhost: host.superhost || false,
+            reviews: host.reviews || 0,
+            rating: host.rating || "",
+            about: host.about || "",
+            started_year: host.started_year || "",
+            languages: host.languages ? host.languages.join(", ") : "",
+            host_location: host.location || "",
+            host_job: host.job || "",
+            total_listings: host.total_listings || 0,
+        };
+    });
+
+    const worksheet = XLSX.utils.json_to_sheet(flatData);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, "Enriched Listings");
+    XLSX.writeFile(workbook, outputExcelPath);
+    console.log("📊 Excel saved to enriched_listings.xlsx");
 })();
