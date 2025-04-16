@@ -16,7 +16,7 @@ const puppeteer = require("puppeteer");
 
     for (let zipcode = 10001; zipcode <= 10005; zipcode++) {
         console.log(`\n📍 Starting ZIP Code: ${zipcode}`);
-        const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes?currency=EUR`;
+        const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes`;
 
         await page.goto(baseUrl, { waitUntil: "domcontentloaded" });
         await new Promise((resolve) => setTimeout(resolve, 5000));

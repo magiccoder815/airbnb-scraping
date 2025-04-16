@@ -63,11 +63,13 @@ const scrapeHostData = async (url, browser) => {
         infoSpans.forEach((span) => {
             const text = span.innerText.trim();
             if (text.startsWith("Speaks")) {
-                const raw = text
+                languages = text
                     .replace("Speaks", "")
                     .trim()
-                    .replace(" and ", ", ");
-                languages = raw.split(",").map((l) => l.trim());
+                    .replace(/\s+and\s+/g, ", ")
+                    .split(",")
+                    .map((l) => l.trim())
+                    .filter(Boolean);
             } else if (text.startsWith("Lives in")) {
                 const loc = text.replace("Lives in", "").trim();
                 const parts = loc.split(",");
