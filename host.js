@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 
 (async () => {
-    const url = "https://www.airbnb.com/users/show/16425715";
+    const url = "https://www.airbnb.com/users/show/567803830";
 
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
@@ -48,8 +48,14 @@ const puppeteer = require("puppeteer");
             'span[data-testid="Months hosting-stat-heading"]'
         );
 
+        const yearText = getText(
+            'span[data-testid="Year hosting-stat-heading"]'
+        );
+
         if (yearsText && /^\d+$/.test(yearsText)) {
             started_year = currentDate.getFullYear() - parseInt(yearsText);
+        } else if (yearText && /^\d+$/.test(yearText)) {
+            started_year = currentDate.getFullYear() - parseInt(yearText);
         } else if (monthText && /^\d+$/.test(monthText)) {
             const monthsAgo = parseInt(monthText);
             const startedDate = new Date();

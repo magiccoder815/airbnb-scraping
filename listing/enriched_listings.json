@@ -6847,28 +6847,6 @@
         }
     },
     {
-        "link": "https://www.airbnb.com/rooms/1223325139649690258",
-        "title": "Vibrant NYC Loft - Open Space for 6 Guests!",
-        "listing_type": "Entire rental unit in New York, United States",
-        "listing_price": 398,
-        "zipcode": 10002,
-        "host_url": "https://www.airbnb.com/users/show/567803830",
-        "host": {
-            "host_url": "https://www.airbnb.com/login?redirect_url=/users/show/567803830",
-            "host_name": null,
-            "avatar_url": null,
-            "superhost": null,
-            "reviews": 0,
-            "rating": null,
-            "about": null,
-            "started_year": 2024,
-            "languages": null,
-            "location": null,
-            "job": null,
-            "total_listings": 0
-        }
-    },
-    {
         "link": "https://www.airbnb.com/rooms/21862155",
         "title": "Kingsize bedroom in Harlem brownstone",
         "listing_type": "Room in New York, United States",
