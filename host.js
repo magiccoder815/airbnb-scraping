@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 
 (async () => {
-    const url = "https://www.airbnb.com/users/show/16677326";
+    const url = "https://www.airbnb.com/users/show/38909234";
     const host_id = url.split("/").pop(); // Extract host_id
 
     const browser = await puppeteer.launch({ headless: false });
