@@ -35,6 +35,9 @@ const scrapeHostData = async (url, browser) => {
         const currentDate = new Date();
         let started_year = null;
 
+        const yearText = getText(
+            'span[data-testid="Year hosting-stat-heading"]'
+        );
         const yearsText = getText(
             'span[data-testid="Years hosting-stat-heading"]'
         );
@@ -48,6 +51,8 @@ const scrapeHostData = async (url, browser) => {
 
         if (yearsText && /^\d+$/.test(yearsText)) {
             started_year = currentDate.getFullYear() - parseInt(yearsText);
+        } else if (yearText && /^\d+$/.test(yearText)) {
+            started_year = currentDate.getFullYear() - parseInt(yearText);
         } else if (monthText && /^\d+$/.test(monthText)) {
             const monthsAgo = parseInt(monthText);
             const startedDate = new Date();
