@@ -16,7 +16,7 @@ const puppeteer = require("puppeteer");
 
     for (let zipcode = 10001; zipcode <= 10005; zipcode++) {
         console.log(`\n📍 Starting ZIP Code: ${zipcode}`);
-        const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes`;
+        const baseUrl = `https://www.airbnb.com/s/New-York--NY-${zipcode}/homes?currency=USD`;
 
         await page.goto(baseUrl, { waitUntil: "domcontentloaded" });
         await new Promise((resolve) => setTimeout(resolve, 5000));
@@ -43,6 +43,7 @@ const puppeteer = require("puppeteer");
                             (a) => a.href
                         );
                         const link = fullLink.split("?")[0];
+                        const listingId = link.split("/").pop();
                         console.log("link---", link);
                         let priceText = "Price not found";
                         const priceSpan =
@@ -62,6 +63,7 @@ const puppeteer = require("puppeteer");
 
                         listingData.push({
                             link,
+                            listingId,
                             price,
                             zipcode,
                         });
@@ -123,6 +125,7 @@ const puppeteer = require("puppeteer");
 
                 listingDetails.push({
                     link: item.link,
+                    listing_id: item.listingId,
                     title,
                     listing_type: listingType,
                     listing_price: item.price,
@@ -133,7 +136,7 @@ const puppeteer = require("puppeteer");
                 console.log(
                     `[${i + 1}] ✅ Scraped: ${title} | ${listingType} | ${
                         item.price
-                    } | ZIP: ${item.zipcode} | ${hostLink}`
+                    } | ${item.listingId} | ${hostLink}`
                 );
             } catch (err) {
                 console.log(

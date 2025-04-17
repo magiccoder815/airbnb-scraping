@@ -4,10 +4,11 @@ const path = require("path");
 const XLSX = require("xlsx");
 
 const scrapeHostData = async (url, browser) => {
+    const host_id = url.split("/").pop();
     const page = await browser.newPage();
     await page.goto(url, { waitUntil: "networkidle2" });
 
-    const data = await page.evaluate(() => {
+    const data = await page.evaluate((host_id) => {
         const getText = (selector) => {
             const el = document.querySelector(selector);
             return el ? el.innerText.trim() : null;
@@ -110,8 +111,18 @@ const scrapeHostData = async (url, browser) => {
             total_listings = listings.length;
         }
 
+        const roomLinks = Array.from(
+            document.querySelectorAll("div.cy5jw6o a")
+        );
+        const listings = roomLinks.map((a) => {
+            const href = a.getAttribute("href");
+            const match = href?.match(/\/rooms\/(\d+)/);
+            return match ? match[1] : null;
+        });
+
         return {
             host_url: window.location.href,
+            host_id,
             host_name,
             avatar_url,
             superhost,
@@ -123,8 +134,9 @@ const scrapeHostData = async (url, browser) => {
             location,
             job,
             total_listings,
+            listings,
         };
-    });
+    }, host_id);
 
     await page.close();
     return data;
@@ -168,7 +180,10 @@ const scrapeHostData = async (url, browser) => {
     // Prepare flat data for Excel
     const flatData = listings.map((listing) => {
         const host = listing.host || {};
+
         return {
+            listing_id: listing.listing_id || "",
+            host_id: host.host_id || "",
             link: listing.link || "",
             title: listing.title || "",
             listing_type:
@@ -191,6 +206,7 @@ const scrapeHostData = async (url, browser) => {
             host_state: host.location?.state || "",
             host_job: host.job || "",
             total_listings: host.total_listings || 0,
+            listings: host.listings ? host.listings.join(", ") : "",
         };
     });
 

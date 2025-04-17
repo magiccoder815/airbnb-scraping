@@ -1,14 +1,15 @@
 const puppeteer = require("puppeteer");
 
 (async () => {
-    const url = "https://www.airbnb.com/users/show/567803830";
+    const url = "https://www.airbnb.com/users/show/16677326";
+    const host_id = url.split("/").pop(); // Extract host_id
 
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
 
     await page.goto(url, { waitUntil: "networkidle2" });
 
-    const data = await page.evaluate(() => {
+    const data = await page.evaluate((host_id) => {
         const getText = (selector) => {
             const el = document.querySelector(selector);
             return el ? el.innerText.trim() : null;
@@ -39,15 +40,12 @@ const puppeteer = require("puppeteer");
         const yearsText = getText(
             'span[data-testid="Years hosting-stat-heading"]'
         );
-
         const monthText = getText(
             'span[data-testid="Month hosting-stat-heading"]'
         );
-
         const monthsText = getText(
             'span[data-testid="Months hosting-stat-heading"]'
         );
-
         const yearText = getText(
             'span[data-testid="Year hosting-stat-heading"]'
         );
@@ -102,18 +100,28 @@ const puppeteer = require("puppeteer");
         });
 
         const listingsText = getText("div.vhfsyi9");
+        let total_listings = 0;
         if (listingsText) {
             const match = listingsText.match(/View all (\d+) listings/i);
             if (match) {
                 total_listings = parseInt(match[1], 10);
             }
         } else {
-            // Fallback: count .fb4nyux divs
             const listings = document.querySelectorAll("div.cy5jw6o");
             total_listings = listings.length;
         }
 
+        const roomLinks = Array.from(
+            document.querySelectorAll("div.cy5jw6o a")
+        );
+        const listings = roomLinks.map((a) => {
+            const href = a.getAttribute("href");
+            const match = href?.match(/\/rooms\/(\d+)/);
+            return match ? match[1] : null;
+        });
+
         return {
+            host_id, // passed in from Node.js
             host_name,
             avatar_url,
             superhost,
@@ -125,8 +133,9 @@ const puppeteer = require("puppeteer");
             location,
             job,
             total_listings,
+            listings,
         };
-    });
+    }, host_id); // 👈 pass host_id here
 
     console.log(data);
 
